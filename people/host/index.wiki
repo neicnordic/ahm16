@@ -1,0 +1,6 @@
+---
+---
+{% include person.wiki %}
+
+== Colophon ==
+This is a custom person page, just to show how they work.

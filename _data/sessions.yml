@@ -1,0 +1,233 @@
+# sessions.yml
+#
+# Information on sessions, chairs, talks, speakers etc...
+#
+# = Basic format =
+# Select session_id carefully, as it is used all across the site, in urls etc...
+# There are plenty examples below.
+#
+# opening:                                   # session_id. Choose with care.
+#     title: Plenary - Opening Session       # Title of session
+#     chair: host                            # person_id of chair.   
+#     plenary: yes                           # Is this a plenary, yes/no?
+#     room:                                  # Name of the room.
+#     abstract: yes                          # Has the abstract been added to the site, yes/no?
+#     talks:                                 # keyword, must be here.
+#         -                                  # List item separator, must be here.
+#            speaker: host                   # person_id of the speaker.
+#            title: Welcome and Introduction # Talk title.
+#            abstract: no                    # Has the abstract been added to the site, yes/no?
+#            slides: /media/foo-bar.pdf      # url to slides, see below.
+#         -                                  # Separator, must be here if there are more talks.
+#            speaker: ...                    # etc...
+#            ...
+#            slides:                         # Slides can also be a list, eg: different formats.
+#               - /media/banjos.pptx         # Prefer to put media in /media.
+#               - https://dn.se/news.pdf     # Slides can also be offsite, if so use proper urls.
+#
+
+### Day 1
+
+opening:
+    title: Plenary - Opening Session
+    chair: host
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+        - 
+            speaker: host
+            title: Welcome and Introduction
+            abstract: 
+            slides: "https://wiki.neic.no/wiki/Project_directive_template"
+
+### Day 2
+
+info-2:
+    title: Info Day 2
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+glenna-2:
+    title: Glenna Team Session Day 2
+    chair: still
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+nt1-2:
+    title: NT1 Team Session Day 2
+    chair: wadenstein
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+tryggve-2:
+    title: Tryggve Team Session Day 2
+    chair: pursula
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+reflections:
+    title: Plenary - Reflections on the first 4 years of NeIC
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+scramble-2-1:
+    title: Scrambled Camps Session Day 2 Topic 1
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+scramble-2-2:
+    title: Scrambled Camps Session Day 2 Topic 2
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+scramble-2-3:
+    title: Scrambled Camps Session Day 2 Topic 3
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+wrap-2:
+    title: Wrapup Day 2
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+### Day 3
+
+info-3:
+    title: Info Day 3
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+glenna-3:
+    title: Glenna Team Session Day 3
+    chair: still
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+nt1-3:
+    title: NT1 Team Session Day 3
+    chair: wadenstein
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+tryggve-3:
+    title: Tryggve Team Session Day 3
+    chair: pursula
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+challenges:
+    title: Plenary - Challenges and Opportunities
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+scramble-3-1:
+    title: Scrambled Camps Session Day 3 Topic 1
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+scramble-3-2:
+    title: Scrambled Camps Session Day 3 Topic 2
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+scramble-3-3:
+    title: Scrambled Camps Session Day 3 Topic 3
+    chair: roblitz
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+wrap-3:
+    title: Wrapup Day 3
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+    
+### Day 4
+
+info-4:
+    title: Info Day 4
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+
+glenna-4:
+    title: Glenna Team Session Day 4
+    chair: still
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+nt1-4:
+    title: NT1 Team Session Day 4
+    chair: wadenstein
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+tryggve-4:
+    title: Tryggve Team Session Day 4
+    chair: pursula
+    plenary: no
+    room: 
+    abstract:
+    talks:
+    
+closing:
+    title: Plenary - Closing Session
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+

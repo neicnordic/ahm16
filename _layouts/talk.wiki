@@ -1,0 +1,4 @@
+---
+layout: menu
+---
+{% include talk.wiki %}

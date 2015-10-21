@@ -1,0 +1,104 @@
+# people.yml
+# 
+# Normally, only speakers and chairs would go in this file. However, since this is an 
+# internal meeting with an expected high degree of participation, this is effectivey 
+# a registration page, so Welcome!
+#
+# = Basic format = 
+# Select person_id carefully, as it is used all across the site, in urls etc...
+# There are plenty examples below.
+#
+# host:                 # person_id. asciified lower case last name, or similar.
+#    name: Gudmund Høst # Your name.
+#    email: email@he.re # email is optional: will be displayed on the Internet.
+#    home: NeIC         # Home organization.
+#    role: Director     # Your principal task in NeIC
+#    area: ADM          # Your NeIC area.
+#    arrival: 25        # What day of January you will arrive.
+#    departure: 28      # What day of January you will leave.
+#    shuttle: no        # Will you use the NeIC airoport shuttle, yes/no?
+#    size: M            # Corporeal dimension, of the jacket type variety.
+#
+
+host:
+    name: Gudmund Høst
+    email: email@goes.here
+    home: NeIC
+    role: Director
+    area: ADM
+    arrival: 25
+    departure: 28
+    shuttle: no
+    size: M
+
+pursula:
+    name: Antti Pursula
+    home: CSC
+    role: Tryggve PM
+    area: BMS
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
+
+hedlund:
+    name: Joel Hedlund
+    home: NSC
+    role: BMS coordinator
+    area: BMS
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
+
+wadenstein:
+    name: Mattias Wadenstein
+    home: HPC2N
+    role: NT1 coordinator
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
+
+still:
+    name: Dan Still
+    home: CSC
+    role: Glenna PM
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
+
+vitlacil:
+    name: Dejan Vitlacil
+    home: PDC
+    role: GEN coordinator
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
+
+tigerstedt:
+    name: Ulf Tigerstedt
+    home: CSC
+    role: dCache admin
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
+
+
+roblitz:
+    name: Thomas Röblitz
+    home: USIT
+    role: ENV coordinator
+    area: ENV
+    arrival: 
+    departure:
+    shuttle: 
+    size: 
+

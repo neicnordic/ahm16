@@ -1,0 +1,31 @@
+# This setting is overridden in a separate config file specified by the 
+# jekyllweb_updater daemon on the development server.
+testing: false
+
+name: AHM16
+baseurl: /ahm16
+highlighter: pygments
+markdown_ext: wiki
+markdown: pandoc
+pandoc:
+   format: html5
+   extensions:
+       from: mediawiki
+
+defaults:
+  -
+    scope:
+        path: ""
+        type: "pages"
+    values:
+        layout: menu
+        menu: 100
+  -
+    scope:
+        path: ""
+        type: "posts"
+    values:
+        layout: news
+         
+#paginate: 100
+#paginate_path: "/news/page:num/"

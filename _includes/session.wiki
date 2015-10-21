@@ -1,0 +1,23 @@
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign nnl = '' %}
+
+{% assign session = site.data.sessions[id] %}
+= {{ session.title }} =
+Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
+
+{% capture slides -%}
+{% for talk in session.talks -%}
+    |* '''[[{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]''' <br/> {{ nnl -}} 
+    |[[{{ site.baseurl }}/people/{{ talk.speaker }}|{{ site.data.people[talk.speaker].name }}]] {{ nnl -}}
+    {%- if talk.slides.size == 1 -%} 
+        &nbsp; [[{{ talk.slides[0] }}|Slides]] 
+    {%- elsif talk.slides.size > 1 -%} 
+        &nbsp; Slides: &#91;{{ nnl -}}{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}[[{{ slides }}|{{ forloop.index }}]]{% endfor %}&#93;
+    {%- endif -%}
+{% endfor %}{% endcapture %}
+{% if session.talks %}
+=== Slides ===
+{{ slides }}
+{% endif %}

@@ -1,0 +1,18 @@
+---
+title: Sessions
+layout: no-menu
+---
+{% assign sorted_group_sessions = site.data.sessions|select:'plenary',false|key_sort:'title' %}
+{% assign sorted_plenary_sessions = site.data.sessions|select:'plenary',true|key_sort:'title' %}
+
+= List of Sessions =
+
+== Plenaries ==
+{%- for session in sorted_plenary_sessions -%}
+* [[{{ session[0] }}|{{ session[1].title }}]]
+{%- endfor -%}
+
+== Group Sessions ==
+{%- for session in sorted_group_sessions -%}
+* [[{{ session[0] }}|{{ session[1].title }}]]
+{%- endfor -%}

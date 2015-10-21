@@ -1,0 +1,38 @@
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign br = '<br/>' %}
+
+{% assign person = site.data.people[id] %}
+= {{ person.name }} =
+{{ person.role }} <br/>
+Area: {{ person.area }} <br/>
+Home: {{ person.home }} <br/>
+{%- capture slides -%}
+    {%- for session in site.data.sessions -%}
+        {%- for talk in session[1].talks -%}
+            {%- if talk.speaker == id -%}
+                |* <span class="slidelist-head">[[{{ site.baseurl }}/sessions/{{ session[0] }}|{{ session[1].title }}]] {{ br -}}
+                |[[{{ site.baseurl }}/sessions/{{ session[0] }}/{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]</span>
+                {%- for slides in talk.slides -%}
+                    |** [[{{ slides }}|{{ slides|split:'/'|last }}]]
+                {%- endfor -%}
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endfor -%}
+{%- endcapture %}
+{%- if slides.size != 0 -%}
+=== Slides ===
+{{ slides }}
+{%- endif -%}
+{%- capture chair -%}
+    {%- for session in site.data.sessions -%}
+        {%- if session[1].chair == id -%}
+            |* [[{{ site.baseurl }}/sessions/{{ session[0] }}|{{ session[1].title }}]]
+        {%- endif -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- if chair.size != 0 -%}
+    |=== Chair ===
+    |{{ chair }}
+{%- endif -%}

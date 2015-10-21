@@ -1,0 +1,67 @@
+# program.yml
+#
+# This file lists conference days, and what starts when. 
+#
+# = Basic format =
+# The little hyphens in the margin are list item separators, separating the conference days.
+#
+#-                                          # List item separator, must be here.  
+#    title: Day 1, Monday 25th              # Short day title
+#    slots:                                 # Keyword, must be here.
+#        "14:00": Shuttle leaves Gardermoen # "time": WHAT (quotes needed, see below)
+#        "17:00": Session opening           # "time": WHAT
+#        "18:30": Break                     # etc...
+#        "19:00": Dinner
+#-
+#    title: Day 2, Tuesday 26th
+#    ...etc...
+#
+# WHAT can be several things:
+# * Session A B C... : Sessions with session_id A, B, C etc start now. More details in sessions.yml. 
+# * Break optional description: Break, with optional description. Coffee and lunch are also "break words". 
+# * Free text: For example a social event. Can contain html links. 
+#
+# The quotes are needed so yaml will not interpret the colon as making a hash.
+#
+
+-
+    title: Day 1, Monday 25th
+    slots:
+        "14:00": Shuttle leaves Gardermoen airport
+        "17:00": Session opening
+        "18:30": Break
+        "19:00": Dinner
+-
+    title: Day 2, Tuesday 26th
+    slots:
+        "08:45": Session info-2
+        "09:00": Session glenna-2 nt1-2 tryggve-2
+        "10:30": Break (Lunch 12:30 - 14:00)
+        "15:00": Session reflections
+        "16:30": Coffee
+        "17:00": Session scramble-2-1 scramble-2-2 scramble-2-3 
+        "18:30": Session wrap-2
+        "19:00": Break
+        "19:30": Dinner 
+-
+    title: Day 3, Wednesday 27th
+    slots:
+        "08:45": Session info-3
+        "09:00": Session glenna-3 nt1-3 tryggve-3
+        "10:30": Break (Lunch 12:30 - 14:00)
+        "15:00": Session challenges
+        "16:30": Coffee
+        "17:00": Session scramble-3-1 scramble-3-2 scramble-3-3 
+        "18:30": Session wrap-3
+        "19:00": Break
+        "19:30": Dinner 
+-
+    title: Day 4, Thursday 28th
+    slots:
+        "08:45": Session info-4
+        "09:00": Session glenna-4 nt1-4 tryggve-4
+        "10:30": Break 
+        "11:00": Session closing
+        "12:30": Lunch
+        "13:00": First shuttle to Gardermoen airport departs, arrives approximately 16:00. 
+        "14:00": Last shuttle to Gardermoen airport departs, arrives approximately 17:00. 

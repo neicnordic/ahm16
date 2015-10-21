@@ -1,0 +1,12 @@
+---
+title: Program
+layout: menu-wide
+menu: 50
+---
+
+<h1> {{ page.title }} </h1>
+
+{% for day in site.data.program %}
+<h2> {{ day.title }} </h2>
+{% include day_program.html day=day %}
+{% endfor %}

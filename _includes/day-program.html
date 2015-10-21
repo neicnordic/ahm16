@@ -1,0 +1,74 @@
+{# include.day: required #} 
+{# include.caption: optional #} 
+{% assign breakwords = "break coffee lunch"|split:' ' %}
+{% assign breakwords = include.breakwords|default:breakwords %}
+
+{% assign parallel_sessions = 1 %}
+{% for slot in include.day.slots %}
+    {% assign words = slot[1]|downcase|split:" " %}
+    {% if words[0] == 'session' and words.size > parallel_sessions %}
+        {% assign parallel_sessions = words.size|minus:1 %}
+    {% endif %}
+{% endfor %}
+
+<table class="schedule">
+<caption>{{ include.caption }}</caption>
+<tr><th>Time</th><th colspan="{{ parallel_sessions }}">Session</th></tr>
+{% for slot in include.day.slots %}
+    {% assign words = slot[1]|split:" " %}
+    {% assign type = words|first|downcase %}
+    <tr>
+    {% if breakwords contains type %}
+        <td class="slot break">{{ slot[0] }}<br/><span class="breaktype">{{ words[0] }}</span></td>
+        {% if words.size > 1 %}
+            <td class="break" colspan="{{ parallel_sessions }}">{{ slot[1] }}</td>
+        {% endif %}
+    {% elsif type == 'session' %}
+        <td class="slot session">{{ slot[0] }}<br/><br/><br/></td>
+        {% for session_id in words offset:1 %}
+            {% assign session = site.data.sessions[session_id] %}
+            {% if session.plenary %}
+                <td colspan="{{ parallel_sessions }}" width="100%">
+            {% else %}
+                <td width="{{ 100|divided_by:parallel_sessions }}%">
+            {% endif %}
+            <a href="{{ site.baseurl }}/sessions/{{ session_id }}" class="title">{{ session.title }}</a><br/>
+            {% for chair_id in session.chair %}
+                {% assign chair = site.data.people[chair_id] %}
+                <span class="chair"><a href="{{ site.baseurl }}/people/{{ chair_id }}">{{ chair.name }}</a>
+                {% if chair.email %}
+                    (<a href='mailto:{{ chair.email }}'>contact</a>)
+                {% endif %}
+                </span><br/>
+            {% endfor %}
+            </br>
+            <ul>
+            {% for talk in session.talks %}
+                <li>
+                <a href="{{ site.baseurl }}/sessions/{{ session_id }}/{{ talk.id|default:talk.speaker }}" class="title">{{ talk.title }}</a><br/>
+                <a href="{{ site.baseurl }}/people/{{ talk.speaker }}">{{ site.data.people[talk.speaker].name }}</a>
+                <span class="slides">
+                {% if talk.slides.size == 1 %}
+                    <a href="{{ talk.slides[0] }}">Slides</a>
+                {% elsif talk.slides.size > 1 %}
+                    Slides: [{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}<a href="{{ slides }}">{{ forloop.index }}</a>{% endfor %}]
+                {% endif %}
+                </span><br/>
+                {% if talk.panel %}
+                    <ul>
+                    {% for member in talk.panel %}
+                    <li><a href="{{ site.baseurl }}/people/{{ member }}">{{ site.data.people[member].name }}</a>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            {% endfor %}
+            </ul>
+            </td>
+        {% endfor %}
+    {% else %}
+        <td class="slot social">{{ slot[0] }}</td>
+        <td colspan="{{ parallel_sessions }}">{{ slot[1] }}</td>
+    {% endif %}
+    </tr>
+{% endfor %}
+</table>
