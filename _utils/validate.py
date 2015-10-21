@@ -24,12 +24,15 @@ def usage(message):
     sys.stderr.write(Options().get_usage())
     return os.EX_USAGE
 
+class ValidationError(Exception):
+    """Raised on finding inconsistent data."""
+
 def error(msg, *args, **kw):
     if args:
         msg %= args
     elif kw:
         msg %= kw
-    raise ValueError(msg)
+    raise ValidationError(msg)
 
 def _get(datadict, key, default=[]):
     return datadict.get(key, None) or default
@@ -181,9 +184,10 @@ def main(argv=None):
     if args:
         return usage("This program takes no arguments.")
     event = load_data(os.path.join(options.sitedir, '_data'))
-    integrity_check(event)
-    print "OK" 
-    #print repr(event['sessions']['cloud']['talks'][2]['title'])
+    try:
+        integrity_check(event)
+    except ValidationError as e:
+        print ', '.join(str(arg) for arg in e.args)
     return 0
     
 if __name__ == '__main__':
