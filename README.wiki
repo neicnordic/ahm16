@@ -4,7 +4,7 @@
 
 This is a simplistic conference website generator for tech people who have other things to do.
 
-This is a jekyll site, with support for pandoc/mediawiki format for files ending in *.wiki. 
+This is a jekyll site, with support for pandoc/mediawiki format for files ending in *.wiki.
 
 The philosophy is that all "small" data on sessions, speakers etc goes into yaml files under 
 /_data/. Jekyll generates web pages from this data, without overriding pages that have been 
@@ -101,4 +101,3 @@ Example:
  
  
 </div>
-
