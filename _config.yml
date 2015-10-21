@@ -4,6 +4,7 @@ testing: false
 
 name: AHM16
 baseurl: /ahm16
+encoding: utf-8
 highlighter: pygments
 markdown_ext: wiki
 markdown: pandoc
