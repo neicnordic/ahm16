@@ -14,6 +14,9 @@ necessary.
 
 See below for what data goes where, and what pages go where.
 
+The code lives on [https://github.com/neicnordic/ahm16 https://github.com/neicnordic/ahm16]. 
+Contact your project leader or area coordinator for access.
+
 Please feel free to click around and see how things are used in practice.
 
 == Data and Directories ==
