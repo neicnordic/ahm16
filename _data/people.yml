@@ -102,3 +102,12 @@ roblitz:
     shuttle: 
     size: 
 
+urkedal:
+    name: Petter Urkedal
+    home: NBI
+    role: sysadmin
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
