@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 """\
 Check for inconsistencies and missing info in conference program data.
+
+Exit code == 0 and no output means success.
+
+Exit code == 0 and output on stdout means validation error found.
+
+Exit code != 0 means other error, details/traceback on stderr.
 """
 import optparse
 import os
