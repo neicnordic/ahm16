@@ -2,7 +2,13 @@
 title: NeIC ahm16
 ---
 = NeIC All-Hands Meeting 2016 =
-  
-Click stuff on the left will you please?
 
-Or read the [[README.html]].
+The NeIC All Hands Meeting (AHM) is planned for Monday 25th - Thursday 28th January, 2016 at Skeikampen, Norway. The intended participants of the AHM are personnel engaged in NeIC operations or projects.  The NeIC AHM will explore and nurture the ways we work together towards the NeIC vision: Facilitating the development and operation of high-quality e-Infrastructure services of common interest. 
+
+The program will have a mix of plenary sessions and smaller parallel meetings. 
+
+The program will also include a major component of social networking, attempting to mitigate the effects of the completely distributed nature of NeIC and facilitate excellent working relations. The premises offers opportunities for a range of skiing activities and the hotel has a spa. 
+
+The meeting builds on the NeIC AHM 2015, which was evaluated as a very successful event by the participants, see [[https://wiki.neic.no/wiki/File:All-Hands_2015_Evaluation_Report-final.pdf|NeIC All Hands 2015 Evaluation Report]].
+
+Contributors: Please see [[README.html]].
