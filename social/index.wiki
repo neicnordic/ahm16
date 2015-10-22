@@ -1,6 +1,9 @@
 ---
 title: Social activities
 ---
+
+= {{ page.title }} =
+
 Social face time is extremely valuable in a distributed organization. So like last time, we will likely make the best use of this time that we can, by reserving a lot of time for informal team building where people should feel free to make use of the amenities and the resort to the best of their creativity. Bring ski boots and swimming trunks.
 
 Nevertheless, we might do some organized social activity as well. Some of this maybe?
