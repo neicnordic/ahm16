@@ -4,16 +4,11 @@ title: Practicalities
 
 = {{ page.title }} =
 
-== Intended participants ==
-* The intended participants of the AHM are personnel engaged in NeIC operations or projects. The program will include a major component of social networking, attempting to mitigate the effects of the completely distributed nature of NeIC and facilitate excellent working relations.
-* Interested members of project steering groups or reference group and stakeholder fora who want to participate in the discussions, socialize with NeIC and see what work in NeIC is like on the inside are warmly welcome to join the AHM. However, co-locating official meetings in such groups to this event is strongly discouraged, in order not to distract staff away from the prioritized content. On the other hand, network connectivity has proven excellent at this location, so for any sessions that do not directly concern such delegates, time can still very likely be usefully spent doing other productive work. 
-
 == Venue ==
 * [http://www.thonhotels.com/hotels/countrys/norway/skeikampen/thon-hotel-skeikampen/ Thon Hotel Skeikampen] is located 150 km from Oslo airport and reachable by public transportation. 
 * Information about [http://www.skeikampen.no/en Skeikampen] destination. You may want to consider bringing your favourite swimming trunks or ski boots for use of amenities out of scheduled hours.
 
-== Registration ==
-* Registration site upcoming.
-* NeIC will and arrange accommodation, meals and transport between Gardermoen and Skeikampen for NeIC-contracted personnel.
-** Please make your own travel arrangements to Gardermoen. 
-** Please let us know if you would like to make all your travel/accommodation arrangements yourself (for example should you like to rent a cottage instead).
+== Information channels ==
+This conference website is the main channel of information about this meeting.
+
+Planning is carried out [http://wiki.neic.no/int/ahm16 and on the internal wiki]. As details become clear/finalized, they are moved here.
