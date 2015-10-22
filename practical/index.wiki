@@ -1,0 +1,7 @@
+---
+title: Practicalities
+---
+
+= {{ page.title }} =
+
+Practical information goes here.
