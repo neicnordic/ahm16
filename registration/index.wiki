@@ -4,10 +4,11 @@ title: Registration
 
 = {{ page.title }} =
 
+In a nutshell:
 * Registration site is forthcoming.
 * NeIC will and arrange accommodation, meals and transport between Gardermoen and Skeikampen for NeIC-contracted personnel.
-** Please make your own travel arrangements to Gardermoen. 
-** Please let us know if you would like to make all your travel/accommodation arrangements yourself (for example should you like to rent a cottage instead).
+* Please make your own travel arrangements to Gardermoen. 
+* Please let us know if you would like to make all your travel/accommodation arrangements yourself (for example should you like to rent a cottage instead).
 
 The intended participants of the AHM are personnel engaged in NeIC operations or projects. The program will include a major component of social networking, attempting to mitigate the effects of the completely distributed nature of NeIC and facilitate excellent working relations.
 
