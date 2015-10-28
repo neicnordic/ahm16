@@ -1,7 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/python
 """\
 Check for missing conference data, sorted by person responsible.
 """
+import codecs
 import optparse
 import os
 import re
@@ -16,6 +17,10 @@ from validate import (
     load_data,
     usage,
     )
+
+# Ugly hack: only ever write utf-8 to stdout, especially if it is a pipe with no encoding set.
+# Better solution: port to python3.
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 
 class Options(optparse.OptionParser):
     

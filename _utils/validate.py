@@ -8,11 +8,16 @@ Exit code == 0 and output on stdout means validation error found.
 
 Exit code != 0 means other error, details/traceback on stderr.
 """
+import codecs
 import optparse
 import os
 import sys
 
 import yaml
+
+# Ugly hack: only ever write utf-8 to stdout, especially if it is a pipe with no encoding set.
+# Better solution: port to python3.
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 
 class Options(optparse.OptionParser):
     
