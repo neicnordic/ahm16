@@ -1,5 +1,3 @@
-# This setting is overridden in a separate config file specified by the 
-# jekyllweb_updater daemon on the development server.
 testing: false
 
 name: AHM16
