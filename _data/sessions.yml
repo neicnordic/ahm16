@@ -51,6 +51,79 @@ info-2:
     abstract:
     talks:
 
+docker:
+    title: Tutorial - Docker
+    chair: azab
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+sens:
+    title: Tutorial - Using secure systems for sensitive data
+    chair: pursula
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+gridftp:
+    title: Tutorial - GridFTP
+    chair: behrmann
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+ganeti:
+    title: Tutorial - Ganeti
+    chair: wadenstein
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+security:
+    title: Tutorial - Security
+    chair: tigerstedt
+    plenary: no
+    room: 
+    abstract:
+    talks:
+
+design:
+    title: Plenary - Design Issues for e-Infrastructure services
+    chair: roblitz
+    plenary: yes
+    room: 
+    abstract:
+    talks:
+        -
+            speaker: hanseth
+            title: Design Issues for Knowledge Infrastructures 
+            abstract: 
+            slides:
+        -
+            speaker: wadenstein
+            title: Tier-1 design in 5min
+            abstract:
+            slides:
+        -
+            speaker: still
+            title: Glenna design in 5min
+            abstract:
+            slides:
+        -
+            speaker: pursula
+            title: Tryggve design in 5min
+            abstract:
+            slides:
+        -
+            speaker: roblitz
+            title: E3DS design in 5min
+            abstract:
+            slides:
+
 glenna-2:
     title: Glenna Team Session Day 2
     chair: still
@@ -75,38 +148,6 @@ tryggve-2:
     abstract:
     talks:
     
-reflections:
-    title: Plenary - Reflections on the first 4 years of NeIC
-    chair: roblitz
-    plenary: yes
-    room: 
-    abstract:
-    talks:
-
-scramble-2-1:
-    title: Scrambled Camps Session Day 2 Topic 1
-    chair: roblitz
-    plenary: no
-    room: 
-    abstract:
-    talks:
-
-scramble-2-2:
-    title: Scrambled Camps Session Day 2 Topic 2
-    chair: roblitz
-    plenary: no
-    room: 
-    abstract:
-    talks:
-
-scramble-2-3:
-    title: Scrambled Camps Session Day 2 Topic 3
-    chair: roblitz
-    plenary: no
-    room: 
-    abstract:
-    talks:
-
 wrap-2:
     title: Wrapup Day 2
     chair: roblitz
@@ -149,34 +190,10 @@ tryggve-3:
     abstract:
     talks:
     
-challenges:
-    title: Plenary - Challenges and Opportunities
-    chair: roblitz
+challenge:
+    title: Teamwork challenge & competition
+    chair: urkedal
     plenary: yes
-    room: 
-    abstract:
-    talks:
-
-scramble-3-1:
-    title: Scrambled Camps Session Day 3 Topic 1
-    chair: roblitz
-    plenary: no
-    room: 
-    abstract:
-    talks:
-
-scramble-3-2:
-    title: Scrambled Camps Session Day 3 Topic 2
-    chair: roblitz
-    plenary: no
-    room: 
-    abstract:
-    talks:
-
-scramble-3-3:
-    title: Scrambled Camps Session Day 3 Topic 3
-    chair: roblitz
-    plenary: no
     room: 
     abstract:
     talks:

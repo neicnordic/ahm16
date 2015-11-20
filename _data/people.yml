@@ -20,6 +20,26 @@
 #    size: M            # Corporeal dimension, of the jacket type variety.
 #
 
+azab:
+    name: Abdulrahman Azab
+    email:
+    role: Developer
+    area: BMS
+    arrival:
+    departure: 
+    shuttle:
+    size: 
+
+behrmann:
+    name: Gerd Behrmann
+    email:
+    role: 
+    area: 
+    arrival:
+    departure: 
+    shuttle:
+    size: 
+
 host:
     name: Gudmund Høst
     email: email@goes.here
@@ -41,6 +61,16 @@ pursula:
     shuttle: yes
     size: L
 
+hanseth:
+    name: Ole Hanseth
+    home: UiO
+    role: 
+    area:
+    arrival:
+    departure:
+    shuttle:
+    size:
+    
 hedlund:
     name: Joel Hedlund
     home: NSC

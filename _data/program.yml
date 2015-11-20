@@ -30,17 +30,17 @@
         "14:00": Shuttle leaves Gardermoen airport
         "17:00": Session opening
         "18:30": Break
-        "19:00": Dinner
+        "19:30": Dinner
 -
     title: Day 2, Tuesday 26th
     slots:
         "08:45": Session info-2
-        "09:00": Session glenna-2 nt1-2 tryggve-2
+        "09:00": Session docker sens gridftp ganeti security
         "10:30": Break (Lunch 12:30 - 14:00)
-        "15:00": Session reflections
+        "15:00": Session design
         "16:30": Coffee
-        "17:00": Session scramble-2-1 scramble-2-2 scramble-2-3 
-        "18:30": Session wrap-2
+        "17:00": Session glenna-2 nt1-2 tryggve-2 
+        "18:40": Session wrap-2
         "19:00": Break
         "19:30": Dinner 
 -
@@ -49,10 +49,8 @@
         "08:45": Session info-3
         "09:00": Session glenna-3 nt1-3 tryggve-3
         "10:30": Break (Lunch 12:30 - 14:00)
-        "15:00": Session challenges
-        "16:30": Coffee
-        "17:00": Session scramble-3-1 scramble-3-2 scramble-3-3 
-        "18:30": Session wrap-3
+        "15:00": Session challenge
+        "18:40": Session wrap-3
         "19:00": Break
         "19:30": Dinner 
 -
