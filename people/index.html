@@ -11,16 +11,13 @@ menu: 200
 <div class="people-table">
 <table>
 <tr>
-<th>Name</th><th>Home</th><th>Area</th><th>Role</th><th>Arrival</th><th>Departure</th><th>Size</th></tr>
+<th>Name</th><th>Home</th><th>Area</th><th>Role</th></tr>
 {%- for person in sorted_people -%}
     <tr>
         <td><a href="{{ person[0] }}">{{ person[1].name }}</a></td>
         <td>{{ person[1].home }}</td>
         <td>{{ person[1].area }}</td>
         <td>{{ person[1].role }}</td>
-        <td>{{ person[1].arrival }}</td>
-        <td>{{ person[1].departure }}</td>
-        <td>{{ person[1].size }}</td>
     </tr>
 {%- endfor -%}
 </table>
