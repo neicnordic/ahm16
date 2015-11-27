@@ -16,7 +16,7 @@ drawing members from different projects in NeIC. You'll get to
 build a robot and program it to meet challenges and to compete
 against the other teams.
 
-We are planning to split all participants into four teams of
+We are planning to split all AHM participants into four teams of
 equal size.
 
 == Logistics ==
@@ -25,9 +25,8 @@ equal size.
 |- style="text-align: left;"
 | '''Start:''' || Wednesday, Jan 27th, 15:00
 |-
-| '''Start:''' || Wednesday, Jan 27th, 18:30
+| '''End:''' || Wednesday, Jan 27th, 18:30
 |}
-
 Coffee will be served around 17:30.
 
 == Preparation ==
