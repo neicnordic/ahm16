@@ -11,4 +11,4 @@ title: Practicalities
 == Information channels ==
 This conference website is the main channel of information about this meeting.
 
-Planning is carried out [http://wiki.neic.no/int/ahm16 and on the internal wiki]. As details become clear/finalized, they are moved here.
+Planning is carried out on the [http://wiki.neic.no/int/ahm16 internal wiki]. As details become finalized, they are moved here.

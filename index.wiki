@@ -11,10 +11,10 @@ explore and nurture the ways we work together towards the
 NeIC vision: '''NeIC is global role model for cross-border
 distributed and sustainable e-Infrastructure services.'''
 
-The [[Program|program]] will have a mix of plenary sessions, tutorials,
+The [[program]] will have a mix of plenary sessions, tutorials,
 teamwork challenges and parallel project meetings. 
 
-The program will also include a major component of social
+The [[program]] will also include a major component of social
 networking, attempting to mitigate the effects of the
 completely distributed nature of NeIC and to facilitate
 excellent working relations. The premises offers opportunities
