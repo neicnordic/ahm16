@@ -1,0 +1,24 @@
+---
+title: Registered participants
+layout: no-menu-wide
+menu: 200
+---
+{% assign sorted_people = site.data.people|key_sort:'name' %}
+
+<h1> {{ page.title }} </h1>
+
+<h2> Registered participants</h2>
+<div class="people-table">
+<table>
+<tr>
+<th>Name</th><th>Home</th><th>Area</th><th>Role</th></tr>
+{%- for person in sorted_people -%}
+    <tr>
+        <td><a href="{{ person[0] }}">{{ person[1].name }}</a></td>
+        <td>{{ person[1].home }}</td>
+        <td>{{ person[1].area }}</td>
+        <td>{{ person[1].role }}</td>
+    </tr>
+{%- endfor -%}
+</table>
+</div>
