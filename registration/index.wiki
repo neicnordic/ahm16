@@ -4,14 +4,24 @@ title: Registration
 
 = {{ page.title }} =
 
-In a nutshell:
-* Registration site is forthcoming.
-* NeIC will and arrange accommodation, meals and transport between Gardermoen and Skeikampen for NeIC-contracted personnel.
-* Please make your own travel arrangements to Gardermoen. 
-* Please let us know if you would like to make all your travel/accommodation arrangements yourself (for example should you like to rent a cottage instead).
+'''Read carefully, then proceed to the registration link at the bottom.'''
 
+== In a nutshell ==
+* NeIC will arrange accommodation, meals and transport between Oslo airport at Gardermoen and Skeikampen for NeIC-contracted personnel.
+* Please make your own travel arrangements to/from Gardermoen. 
+* Please let us know if you would like to make all your travel/accommodation arrangements yourself (for example should you like to rent a cottage instead).
+* You can update your registration later on. To be sure we recognize your updates it is recommended that you send a note to ... explaining what you changed.
+
+== Intended participants ==
 The intended participants of the AHM are personnel engaged in NeIC operations or projects. The program will include a major component of social networking, attempting to mitigate the effects of the completely distributed nature of NeIC and facilitate excellent working relations.
 
+== Other participants ==
 Interested members of project steering groups or reference group and stakeholder fora who want to participate in the discussions, socialize with NeIC and see what work in NeIC is like on the inside are warmly welcome to join the AHM. However, co-locating official meetings in such groups to this event is strongly discouraged, in order not to distract staff away from the prioritized content. On the other hand, network connectivity has proven excellent at this location, so for any sessions that do not directly concern such delegates, time can still very likely be usefully spent doing other productive work. 
 
+== Family policy ==
+It is not recommended to bring your family during the meeting. If you want to explore the location with your family you're welcome to do so before or after the AHM. NeIC, however, will not arrange any travel or accommodation for that.
+
+== Registration form and deadline ==
+
+Please register through the [[https://nettskjema.uio.no/answer/69141.html|online form]] until '''December 15th, 2015'''.
 
