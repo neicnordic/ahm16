@@ -157,7 +157,7 @@ def assert_consistency_sessions_persons(sessions, persons):
     for session_id, session in sessions.items():
         chair = session.get('chair', None)
         if chair and chair not in persons:
-            error("Session %r chair %r does not exist in persons.yml.", session_id, chair)
+            error("Session %r chair %r does not exist in people.yml.", session_id, chair)
         for i, talk in enumerate(_get(session, 'talks')):
             speaker = talk.get('speaker', None)
             if speaker and speaker not in persons:

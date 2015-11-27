@@ -137,7 +137,57 @@ urkedal:
     home: NBI
     role: sysadmin
     area: NT1
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: M
+    arrival:
+    departure:
+    shuttle:
+    size:
+
+chmura:
+    name: Piotr Chmura
+    home: DTU
+    role: devops
+    area: BMS
+    arrival:
+    departure:
+    shuttle:
+    size:
+
+hochheim:
+    name: Erland Hochheim
+    home: DTU
+    role: sysadmin
+    area: BMS
+    arrival:
+    departure:
+    shuttle:
+    size:
+
+jareborg:
+    name: Niclas Jareborg
+    home: BILS
+    role: data manager
+    area: BMS
+    arrival:
+    departure:
+    shuttle:
+    size:
+ 
+white:
+    name: John White
+    home: Geneva
+    role: project manager
+    area: ENV
+    arrival:
+    departure:
+    shuttle:
+    size:
+ 
+grawert:
+    name: Uwe Grawert
+    home: CSC
+    role: developer
+    area: GEN
+    arrival:
+    departure:
+    shuttle:
+    size:

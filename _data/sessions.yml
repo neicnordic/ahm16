@@ -25,6 +25,29 @@
 #               - /media/banjos.pptx         # Prefer to put media in /media.
 #               - https://dn.se/news.pdf     # Slides can also be offsite, if so use proper urls.
 #
+#docker:
+#    title: Tutorial - Docker
+#    chair: azab
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
+#
+#sens:
+#    title: Tutorial - Using secure systems for sensitive data
+#    chair: pursula
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
+#
+#gridftp:
+#    title: Tutorial - GridFTP
+#    chair: behrmann
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
 
 ### Day 1
 
@@ -56,29 +79,6 @@ info-2:
     abstract:
     talks:
 
-#docker:
-#    title: Tutorial - Docker
-#    chair: azab
-#    plenary: no
-#    room: 
-#    abstract:
-#    talks:
-
-#sens:
-#    title: Tutorial - Using secure systems for sensitive data
-#    chair: pursula
-#    plenary: no
-#    room: 
-#    abstract:
-#    talks:
-
-#gridftp:
-#    title: Tutorial - GridFTP
-#    chair: behrmann
-#    plenary: no
-#    room: 
-#    abstract:
-#    talks:
 
 ganeti:
     title: Tutorial - Managing Virtual Machines with Ganeti, hands-on
