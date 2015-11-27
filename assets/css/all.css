@@ -430,7 +430,7 @@ article .visual em{
 	line-height:24px;
 }
 #content p { margin: 0 0 24px; }
-#content p .peopletab { margin: 0 0 3px; }
+#peopletab p { margin: 0 0 3px; }
 #content ul {
 	padding: 0;
 	margin: 0 0 25px 29px;
