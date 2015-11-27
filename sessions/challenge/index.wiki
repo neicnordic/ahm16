@@ -2,5 +2,8 @@
 title: Teamwork Challenge & Competition
 layout: no-menu
 ---
-Chairs: Petter Urkedal & Thomas Röblitz
+
+= {{ session.title }} =
+
+Chairs: [[{{ site.baseurl }}/people/{{ urkedal }}|{{ site.data.people[urkedal].name }}]] & [[{{ site.baseurl }}/people/{{ roblitz }}|{{ site.data.people[roblitz].name }}]]
 
