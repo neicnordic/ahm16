@@ -20,26 +20,26 @@
 #    size: M            # Corporeal dimension, of the jacket type variety.
 #
 
-azab:
-    name: Abdulrahman Azab
-    email:
-    role: Developer
-    area: BMS
-    arrival:
-    departure: 
-    shuttle:
-    size: 
-
-behrmann:
-    name: Gerd Behrmann
-    email:
-    role: 
-    area: 
-    arrival:
-    departure: 
-    shuttle:
-    size: 
-
+#azab:
+#    name: Abdulrahman Azab
+#    email:
+#    role: Developer
+#    area: BMS
+#    arrival:
+#    departure: 
+#    shuttle:
+#    size: 
+#
+#behrmann:
+#    name: Gerd Behrmann
+#    email:
+#    role: 
+#    area: 
+#    arrival:
+#    departure: 
+#    shuttle:
+#    size: 
+#
 host:
     name: Gudmund Høst
     email: email@goes.here
@@ -51,26 +51,26 @@ host:
     shuttle: no
     size: M
 
-pursula:
-    name: Antti Pursula
-    home: CSC
-    role: Tryggve PM
-    area: BMS
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: L
-
-hanseth:
-    name: Ole Hanseth
-    home: UiO
-    role: 
-    area:
-    arrival:
-    departure:
-    shuttle:
-    size:
-    
+#pursula:
+#    name: Antti Pursula
+#    home: CSC
+#    role: Tryggve PM
+#    area: BMS
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: L
+#
+#hanseth:
+#    name: Ole Hanseth
+#    home: UiO
+#    role: 
+#    area:
+#    arrival:
+#    departure:
+#    shuttle:
+#    size:
+#    
 hedlund:
     name: Joel Hedlund
     home: NSC
@@ -81,63 +81,63 @@ hedlund:
     shuttle: yes
     size: XL
 
-wadenstein:
-    name: Mattias Wadenstein
-    home: HPC2N
-    role: NT1 coordinator
-    area: NT1
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: XL
-
-still:
-    name: Dan Still
-    home: CSC
-    role: Glenna PM
-    area: GEN
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: L
-
-vitlacil:
-    name: Dejan Vitlacil
-    home: PDC
-    role: GEN coordinator
-    area: GEN
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: L
-
-tigerstedt:
-    name: Ulf Tigerstedt
-    home: CSC
-    role: dCache admin
-    area: NT1
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: M
-
-
-roblitz:
-    name: Thomas Röblitz
-    home: USIT
-    role: ENV coordinator
-    area: ENV
-    arrival: 
-    departure:
-    shuttle: 
-    size: 
-
-urkedal:
-    name: Petter Urkedal
-    home: NBI
-    role: sysadmin
-    area: NT1
-    arrival: 25
-    departure: 28
-    shuttle: yes
-    size: M
+#wadenstein:
+#    name: Mattias Wadenstein
+#    home: HPC2N
+#    role: NT1 coordinator
+#    area: NT1
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: XL
+#
+#still:
+#    name: Dan Still
+#    home: CSC
+#    role: Glenna PM
+#    area: GEN
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: L
+#
+#vitlacil:
+#    name: Dejan Vitlacil
+#    home: PDC
+#    role: GEN coordinator
+#    area: GEN
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: L
+#
+#tigerstedt:
+#    name: Ulf Tigerstedt
+#    home: CSC
+#    role: dCache admin
+#    area: NT1
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: M
+#
+#
+#roblitz:
+#    name: Thomas Röblitz
+#    home: USIT
+#    role: ENV coordinator
+#    area: ENV
+#    arrival: 
+#    departure:
+#    shuttle: 
+#    size: 
+#
+#urkedal:
+#    name: Petter Urkedal
+#    home: NBI
+#    role: sysadmin
+#    area: NT1
+#    arrival: 25
+#    departure: 28
+#    shuttle: yes
+#    size: M
