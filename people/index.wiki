@@ -1,13 +1,11 @@
 ---
-title: Registered participants
-layout: no-menu-wide
-menu: 200
+title: People
 ---
 {% assign sorted_people = site.data.people|key_sort:'name' %}
 
 <h1> {{ page.title }} </h1>
 
-<h2> Registered participants</h2>
+<h2> People</h2>
 <div class="people-table">
 <table>
 <tr>
