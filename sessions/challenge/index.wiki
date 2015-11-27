@@ -20,13 +20,14 @@ We are planning to split all AHM participants into four teams of
 equal size.
 
 == Logistics ==
-
+<div id="smallbottommargin">
 {|class="wikitable"
-|- id="smallbottommargin" style="text-align: left;"
+|- style="text-align: left;"
 | '''Start:''' || Wednesday, Jan 27th, 15:00
-|- id="smallbottommargin"
+|-
 | '''End:''' || Wednesday, Jan 27th, 18:30
 |}
+</div>
 Coffee will be served around 17:30.
 
 == Preparation ==
