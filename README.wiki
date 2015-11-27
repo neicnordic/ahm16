@@ -2,17 +2,22 @@
 ---
 = NeIC AHM16 website =
 
-This is a simplistic conference website generator for tech people who have other things to do.
+This is a simplistic conference website generator for
+tech people who have other things to do.
 
-Check the [[server-status]] page for error messages, or to see whether this site is up-to-date.
+Check the [[server-status]] page for error messages,
+or to see whether this site is up-to-date.
 
-This is a jekyll site, with support for pandoc/mediawiki format for files ending in *.wiki.
+This is a jekyll site, with support for pandoc/mediawiki
+format for files ending in *.wiki.
 
-The philosophy is that all "small" data on sessions, speakers etc goes into yaml files under 
-/_data/. Jekyll generates web pages from this data, without overriding pages that have been 
-manually added to the file tree. "Large" or free text data (eg: abstracts, web page text...)
-goes into files manually added into the tree, which can also "include" the generated parts as
-necessary. 
+The philosophy is that all "small" data on sessions,
+speakers etc goes into yaml files under /_data/. Jekyll
+generates web pages from this data, without overriding
+pages that have been manually added to the file tree.
+"Large" or free text data (eg: abstracts, web page text...)
+goes into files manually added into the tree, which can
+also "include" the generated parts as necessary. 
 
 See below for what data goes where, and what pages go where.
 
@@ -22,11 +27,14 @@ Contact your project leader or area coordinator for access.
 Please feel free to click around and see how things are used in practice.
 
 == Data and Directories ==
-You can use /_utils/validate.py to ensure that data is still consistent after you changed it. 
+You can use /_utils/validate.py to ensure that data is
+still consistent after you changed it. 
 
 ; /_data/
-All "small" data that needs to be kept in sync, or be displayed on several pages, goes here. 
-See comments in data files for details. The scripts in /_utils/ can help you validate that 
+All "small" data that needs to be kept in sync, or be
+displayed on several pages, goes here. 
+See comments in data files for details. The scripts in
+/_utils/ can help you validate that 
 the data is still consistent after you changed it.
 
 ; /_includes/

@@ -30,7 +30,7 @@
 
 opening:
     title: Plenary - Opening Session
-    chair: host
+    chair: jareborg
     plenary: yes
     room: 
     abstract:
@@ -39,7 +39,12 @@ opening:
             speaker: host
             title: Welcome and Introduction
             abstract: 
-            slides: "https://wiki.neic.no/wiki/Project_directive_template"
+            slides:
+        -
+            speaker: jareborg
+            title: Gong Show
+            abstract:
+            slides:
 
 ### Day 2
 
@@ -51,49 +56,57 @@ info-2:
     abstract:
     talks:
 
-docker:
-    title: Tutorial - Docker
-    chair: azab
-    plenary: no
-    room: 
-    abstract:
-    talks:
+#docker:
+#    title: Tutorial - Docker
+#    chair: azab
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
 
-sens:
-    title: Tutorial - Using secure systems for sensitive data
-    chair: pursula
-    plenary: no
-    room: 
-    abstract:
-    talks:
+#sens:
+#    title: Tutorial - Using secure systems for sensitive data
+#    chair: pursula
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
 
-gridftp:
-    title: Tutorial - GridFTP
-    chair: behrmann
-    plenary: no
-    room: 
-    abstract:
-    talks:
+#gridftp:
+#    title: Tutorial - GridFTP
+#    chair: behrmann
+#    plenary: no
+#    room: 
+#    abstract:
+#    talks:
 
 ganeti:
-    title: Tutorial - Ganeti
+    title: Tutorial - Managing Virtual Machines with Ganeti, hands-on
     chair: wadenstein
     plenary: no
     room: 
     abstract:
     talks:
 
-security:
-    title: Tutorial - Security
+ipv6:
+    title: Tutorial - IPv6
     chair: tigerstedt
     plenary: no
     room: 
     abstract:
     talks:
 
+toolsreg:
+    title: Tutorial - Tools Registry
+    chair: chmura
+    plenary: no
+    room:
+    abstract:
+    talks:
+
 design:
-    title: Plenary - Design Issues for e-Infrastructure services
-    chair: roblitz
+    title: Plenary - Design Issues for e-Infrastructure Services
+    chair: hochheim
     plenary: yes
     room: 
     abstract:
@@ -105,22 +118,22 @@ design:
             slides:
         -
             speaker: wadenstein
-            title: Tier-1 design in 5min
+            title: Tier-1 Design in 5min
             abstract:
             slides:
         -
             speaker: still
-            title: Glenna design in 5min
+            title: Glenna Design in 5min
             abstract:
             slides:
         -
             speaker: pursula
-            title: Tryggve design in 5min
+            title: Tryggve Design in 5min
             abstract:
             slides:
         -
-            speaker: roblitz
-            title: E3DS design in 5min
+            speaker: white
+            title: E3DS Design in 5min
             abstract:
             slides:
 
@@ -150,7 +163,7 @@ tryggve-2:
     
 wrap-2:
     title: Wrapup Day 2
-    chair: roblitz
+    chair: azab
     plenary: yes
     room: 
     abstract:
@@ -191,7 +204,7 @@ tryggve-3:
     talks:
     
 challenge:
-    title: Teamwork challenge & competition
+    title: Teamwork Challenge & Competition
     chair: urkedal
     plenary: yes
     room: 
@@ -200,7 +213,7 @@ challenge:
 
 wrap-3:
     title: Wrapup Day 3
-    chair: roblitz
+    chair: grawert
     plenary: yes
     room: 
     abstract:
@@ -242,7 +255,7 @@ tryggve-4:
     
 closing:
     title: Plenary - Closing Session
-    chair: roblitz
+    chair: white
     plenary: yes
     room: 
     abstract:
