@@ -22,9 +22,9 @@ equal size.
 == Logistics ==
 
 {|class="wikitable"
-|- style="text-align: left;"
+|- id="smallbottommargin" style="text-align: left;"
 | '''Start:''' || Wednesday, Jan 27th, 15:00
-|-
+|- id="smallbottommargin"
 | '''End:''' || Wednesday, Jan 27th, 18:30
 |}
 Coffee will be served around 17:30.
