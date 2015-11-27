@@ -7,5 +7,36 @@ layout: no-menu
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
 
-Chairs: [[{{ site.baseurl }}/people/urkedal|{{ site.data.people[urkedal].name }}]] & [[{{ site.baseurl }}/people/roblitz|{{ site.data.people['roblitz'].name }}]]
+Chairs: [[{{ site.baseurl }}/people/urkedal|{{ site.data.people['urkedal'].name }}]] & [[{{ site.baseurl }}/people/roblitz|{{ site.data.people['roblitz'].name }}]]
 
+== Introduction ==
+
+The objective of the two combined sessions is to work in teams
+drawing members from different projects in NeIC. You'll get to
+build a robot and program it to meet challenges and to compete
+against the other teams.
+
+We are planning to split all participants into four teams of
+equal size.
+
+== Logistics ==
+
+{|class="wikitable"
+|- style="text-align: left;"
+| '''Start:''' || Wednesday, Jan 27th, 15:00
+|-
+| '''Start:''' || Wednesday, Jan 27th, 18:30
+|}
+
+Coffee will be served around 17:30.
+
+== Preparation ==
+
+'''Note, information is tentative as we're looking into securing
+the necessary hardware.'''
+
+We will use the Makeblock Robot Starter Kit (Bluetooth) as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
+
+You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
+
+'''Have fun!'''
