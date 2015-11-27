@@ -2,8 +2,10 @@
 title: Teamwork Challenge & Competition
 layout: no-menu
 ---
-
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+{% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
 
-Chairs: [[{{ site.baseurl }}/people/{{ urkedal }}|{{ site.data.people[urkedal].name }}]] & [[{{ site.baseurl }}/people/{{ roblitz }}|{{ site.data.people[roblitz].name }}]]
+Chairs: [[{{ site.baseurl }}/people/urkedal|{{ site.data.people[urkedal].name }}]] & [[{{ site.baseurl }}/people/roblitz|{{ site.data.people['roblitz'].name }}]]
 
