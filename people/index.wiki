@@ -11,7 +11,7 @@ layout: no-menu
 <tr>
 <th>Name</th><th>Home</th><th>Area</th><th>Role</th></tr>
 {%- for person in sorted_people -%}
-    <tr>
+    <tr class="peopletab">
         <td><a href="{{ person[0] }}">{{ person[1].name }}</a></td>
         <td>{{ person[1].home }}</td>
         <td>{{ person[1].area }}</td>
