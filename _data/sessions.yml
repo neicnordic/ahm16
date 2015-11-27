@@ -208,7 +208,7 @@ challenge:
     chair: urkedal
     plenary: yes
     room: 
-    abstract:
+    abstract: yes
     talks:
 
 wrap-3:
