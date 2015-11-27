@@ -5,7 +5,7 @@
 This is a simplistic conference website generator for
 tech people who have other things to do.
 
-Check the [[server-status]] page for error messages,
+Check the [[/int/status/ahm16.txt]] page for error messages,
 or to see whether this site is up-to-date.
 
 This is a jekyll site, with support for pandoc/mediawiki
