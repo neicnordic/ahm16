@@ -11,7 +11,7 @@ layout: no-menu
 <tr>
 <th>Registered</th><th>Name</th><th>Home</th><th>Area</th><th>Role</th></tr>
 {%- for person in sorted_people -%}
-    {%- if person[1].size > 0 -%}
+    {%- if person[1].arrival > 0 -%}
       <tr id="smallbottommargin">
           <td>{{ person[1].arrival }}</td>
           <td><a href="{{ person[0] }}">{{ person[1].name }}</a></td>
@@ -19,7 +19,7 @@ layout: no-menu
           <td>{{ person[1].area }}</td>
           <td>{{ person[1].role }}</td>
       </tr>
-    {%- endif %}
+    {%- endif -%}
 {%- endfor -%}
 </table>
 </div>
