@@ -1,6 +1,8 @@
 ---
 layout: menu
 ---
-{% include session.wiki %}
+{% include talk.wiki %}
 
-All participants get one minute to present themselves
+All participants get one minute to present themselves. Be sure to mention your
+name, where you work, and in which NeIC activity you are involved. Apart from
+that use your time to mention as much
