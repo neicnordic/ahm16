@@ -159,7 +159,7 @@ tryggve-2:
     chair: pursula
     plenary: no
     room: 
-    abstract: Tools registry for Dockers and Tryggve (Piotr)
+    abstract:
     talks:
     
 wrap-2:
@@ -201,7 +201,7 @@ tryggve-3:
     chair: pursula
     plenary: no
     room: 
-    abstract: Code of Conduct (Jonas & Jaakko)
+    abstract:
     talks:
     
 challenge:
@@ -251,7 +251,7 @@ tryggve-4:
     chair: pursula
     plenary: no
     room: 
-    abstract: Project planning and next goals (Antti)
+    abstract:
     talks:
     
 closing:
