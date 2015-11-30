@@ -66,7 +66,8 @@ opening:
         -
             speaker: jareborg
             title: Gong Show
-            abstract: All participants get one minute to present themselves
+#            abstract: All participants get one minute to present themselves
+            abstract: yes
             slides:
 
 ### Day 2
