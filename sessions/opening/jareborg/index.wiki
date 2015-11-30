@@ -1,0 +1,6 @@
+---
+layout: menu
+---
+{% include session.wiki %}
+
+All participants get one minute to present themselves
