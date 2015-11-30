@@ -191,3 +191,13 @@ grawert:
     departure:
     shuttle:
     size:
+
+leinonen:
+    name: Jaakko Leinonen
+    home: CSC
+    role: developer
+    area: BMS
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
