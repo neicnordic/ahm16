@@ -35,7 +35,7 @@
     title: Day 2, Tuesday 26th
     slots:
         "08:45": Session info-2
-        "09:00": Session ganeti ipv6 toolsreg
+        "09:00": Session docker ganeti ipv6 toolsreg
         "10:30": Break (Lunch 12:30 - 14:00)
         "15:00": Session design
         "16:30": Coffee
