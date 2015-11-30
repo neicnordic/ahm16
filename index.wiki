@@ -23,5 +23,3 @@ for a range of outdoor activities and the hotel has a spa.
 The meeting builds on the NeIC AHM 2015, which was evaluated
 as a very successful event by the participants, see
 [[https://wiki.neic.no/wiki/File:All-Hands_2015_Evaluation_Report-final.pdf|NeIC All Hands 2015 Evaluation Report]].
-
-Contributors: Please see [[README.html]].
