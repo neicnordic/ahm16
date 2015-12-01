@@ -1,4 +1,4 @@
 ---
-layout: menu
+layout: no-menu
 ---
 {% include session.wiki %}
