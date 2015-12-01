@@ -106,10 +106,10 @@ vitlacil:
     home: PDC
     role: GEN coordinator
     area: GEN
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
 
 tigerstedt:
     name: Ulf Tigerstedt
