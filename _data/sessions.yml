@@ -208,6 +208,11 @@ tryggve-3:
     room:
     abstract:
     talks:
+      -
+          speaker: leinonen, hagberg
+          title: Code of Conduct
+          abstract:
+          slides:
 
 challenge:
     title: Teamwork Challenge & Competition
@@ -258,6 +263,11 @@ tryggve-4:
     room:
     abstract:
     talks:
+      -
+          speaker: pursula
+          title: Project planning and next goals
+          abstract:
+          slides:
 
 closing:
     title: Plenary - Closing Session
