@@ -165,12 +165,12 @@ hochheim:
 jareborg:
     name: Niclas Jareborg
     home: BILS
-    role: data manager
+    role: Tryggve team member
     area: BMS
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
  
 white:
     name: John White
@@ -195,7 +195,7 @@ grawert:
 leinonen:
     name: Jaakko Leinonen
     home: CSC
-    role: developer
+    role: Developer
     area: BMS
     arrival: 25
     departure: 28
