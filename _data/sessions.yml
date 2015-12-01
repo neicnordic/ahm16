@@ -8,7 +8,7 @@
 #
 # opening:                                   # session_id. Choose with care.
 #     title: Plenary - Opening Session       # Title of session
-#     chair: host                            # person_id of chair.   
+#     chair: host                            # person_id of chair.
 #     plenary: yes                           # Is this a plenary, yes/no?
 #     room:                                  # Name of the room.
 #     abstract: yes                          # Has the abstract been added to the site, yes/no?
@@ -29,7 +29,7 @@
 #    title: Tutorial - Using secure systems for sensitive data
 #    chair: pursula
 #    plenary: no
-#    room: 
+#    room:
 #    abstract:
 #    talks:
 #
@@ -37,7 +37,7 @@
 #    title: Tutorial - GridFTP
 #    chair: behrmann
 #    plenary: no
-#    room: 
+#    room:
 #    abstract:
 #    talks:
 
@@ -47,13 +47,13 @@ opening:
     title: Plenary - Opening Session
     chair: jareborg
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
-        - 
+        -
             speaker: host
             title: Welcome and Introduction
-            abstract: 
+            abstract:
             slides:
         -
             speaker: jareborg
@@ -68,7 +68,7 @@ info-2:
     title: Info Day 2
     chair: roblitz
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
 
@@ -77,7 +77,7 @@ ganeti:
     title: Tutorial - Managing Virtual Machines with Ganeti, hands-on
     chair: wadenstein
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
 
@@ -85,7 +85,7 @@ ipv6:
     title: Tutorial - IPv6
     chair: tigerstedt
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
 
@@ -101,7 +101,7 @@ docker:
     title: Tutorial - Docker
     chair: azab
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
 
@@ -109,13 +109,13 @@ design:
     title: Plenary - Design Issues for e-Infrastructure Services
     chair: hochheim
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
         -
             speaker: hanseth
-            title: Design Issues for Knowledge Infrastructures 
-            abstract: 
+            title: Design Issues for Knowledge Infrastructures
+            abstract:
             slides:
         -
             speaker: wadenstein
@@ -142,31 +142,36 @@ glenna-2:
     title: Glenna Team Session Day 2
     chair: still
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 nt1-2:
     title: NT1 Team Session Day 2
     chair: wadenstein
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 tryggve-2:
     title: Tryggve Team Session Day 2
     chair: pursula
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+      -
+          speaker: chmura
+          title: Tools registry for Dockers and Tryggve
+          abstract:
+          slides:
+
 wrap-2:
     title: Wrapup Day 2
     chair: azab
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
 
@@ -176,7 +181,7 @@ info-3:
     title: Info Day 3
     chair: roblitz
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
 
@@ -184,7 +189,7 @@ glenna-3:
     title: Glenna Team Session Day 3
     chair: still
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
 
@@ -192,23 +197,23 @@ nt1-3:
     title: NT1 Team Session Day 3
     chair: wadenstein
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 tryggve-3:
     title: Tryggve Team Session Day 3
     chair: pursula
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 challenge:
     title: Teamwork Challenge & Competition
     chair: urkedal
     plenary: yes
-    room: 
+    room:
     abstract: yes
     talks:
 
@@ -216,17 +221,17 @@ wrap-3:
     title: Wrapup Day 3
     chair: grawert
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
-    
+
 ### Day 4
 
 info-4:
     title: Info Day 4
     chair: roblitz
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
 
@@ -234,31 +239,30 @@ glenna-4:
     title: Glenna Team Session Day 4
     chair: still
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 nt1-4:
     title: NT1 Team Session Day 4
     chair: wadenstein
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 tryggve-4:
     title: Tryggve Team Session Day 4
     chair: pursula
     plenary: no
-    room: 
+    room:
     abstract:
     talks:
-    
+
 closing:
     title: Plenary - Closing Session
     chair: white
     plenary: yes
-    room: 
+    room:
     abstract:
     talks:
-

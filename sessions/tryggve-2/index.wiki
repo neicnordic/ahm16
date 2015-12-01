@@ -1,9 +1,0 @@
----
-layout: menu
-title: Tryggve Team Session Day 2
----
-{% include session.wiki %}
-
-== Tools registry for Dockers and Tryggve ==
-
-Piotr
