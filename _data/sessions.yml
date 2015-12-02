@@ -209,7 +209,7 @@ tryggve-3:
     abstract:
     talks:
       -
-          speaker: leinonen
+          speaker: leinonen, hagberg
           title: Code of Conduct
           abstract:
           slides:
