@@ -23,6 +23,7 @@
 azab:
     name: Abdulrahman Azab
     email:
+    home: UIO
     role: Developer
     area: BMS
     arrival:
@@ -33,6 +34,7 @@ azab:
 behrmann:
     name: Gerd Behrmann
     email:
+    home:
     role: 
     area: 
     arrival:
@@ -51,6 +53,16 @@ host:
     shuttle: no
     size: M
 
+karpenko:
+    name: Dmytro Karpenko
+    home: UIO
+    role: Operations manager
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
+
 pursula:
     name: Antti Pursula
     home: CSC
@@ -61,9 +73,19 @@ pursula:
     shuttle:
     size:
 
+smirnova:
+    name: Oxana Smirnova
+    home: Lund University
+    role: NeIC-CERN liaison
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M (women's)
+
 hanseth:
     name: Ole Hanseth
-    home: UiO
+    home: UIO
     role: Keynote speaker 
     area: external
     arrival:
@@ -80,6 +102,16 @@ hedlund:
     departure: 28
     shuttle: yes
     size: XL
+
+larsson:
+    name: Jens Larsson
+    home: NSC
+    role: Sysadmin
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL, EU54
 
 wadenstein:
     name: Mattias Wadenstein
