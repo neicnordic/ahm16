@@ -114,13 +114,22 @@ vitlacil:
 tigerstedt:
     name: Ulf Tigerstedt
     home: CSC
-    role: dCache admin
+    role: dCache operator-wizard
     area: NT1
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
 
+edelmann:
+    name: Erik Edelmann
+    home: CSC
+    role: NT1 staff
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XXL
 
 roblitz:
     name: Thomas Röblitz
@@ -151,6 +160,16 @@ chmura:
     departure:
     shuttle:
     size:
+
+hagberg:
+    name: Jonas Hagberg
+    home: BILS
+    role: Developer
+    area: BMS
+    arrival: 22
+    departure: 31
+    shuttle: no
+    size: L
 
 hochheim:
     name: Erland Hochheim
