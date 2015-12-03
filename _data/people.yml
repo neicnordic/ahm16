@@ -165,13 +165,13 @@ edelmann:
 
 roblitz:
     name: Thomas Röblitz
-    home: USIT
+    home: UIO
     role: ENV coordinator
     area: ENV
-    arrival: 
-    departure:
-    shuttle: 
-    size: 
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
 
 urkedal:
     name: Petter Urkedal
