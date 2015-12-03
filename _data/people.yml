@@ -252,3 +252,13 @@ leinonen:
     departure: 28
     shuttle: yes
     size: L
+
+syed:
+    name: Ali Syed
+    home: DTU
+    role: Developer
+    area: BMS
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
