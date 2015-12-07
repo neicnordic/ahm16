@@ -24,12 +24,12 @@ azab:
     name: Abdulrahman Azab
     email:
     home: UIO
-    role: Developer
+    role: Sysadmin, Developer
     area: BMS
-    arrival:
-    departure: 
-    shuttle:
-    size: 
+    arrival: 25.01.2016
+    departure: 28.01.2016
+    shuttle: yes
+    size: 2 XL
 
 behrmann:
     name: Gerd Behrmann
