@@ -1,0 +1,9 @@
+---
+layout: menu
+title: Managing virtual machines with Ganeti - hands-on tutorial
+---
+{% include talk.wiki %}
+
+Hands-on installation and getting started with Ganeti, following the official 
+Ganeti documentation. The participants will do a few example tasks that 
+the chair will define.
