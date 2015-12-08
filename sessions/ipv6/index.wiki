@@ -1,0 +1,14 @@
+---
+layout: no-menu
+title: Managing virtual machines with Ganeti -- hands-on tutorial
+---
+
+= Enabling IPv6 tutorial =
+
+Chair: [[{{ site.baseurl }}/people/tigerstedt|{{ site.data.people['tigerstedt'].name }}]]
+
+[https://en.wikipedia.org/wiki/IPv6 IPv6] is the most recent version of the Internet Protocol (IP).
+
+This tutorial will teach you how to enable the network on your machines with 
+IPv6. The participants will need laptops on which they have admin access to
+fully participate in this tutorial. 
