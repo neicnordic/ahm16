@@ -1,8 +1,18 @@
 ---
 layout: no-menu
-title: Managing virtual machines with Ganeti - hands-on tutorial
+title: Managing virtual machines with Ganeti -- hands-on tutorial
 ---
 
-== {{ session.title }} ==
+== Managing virtual machines with Ganeti -- hands-on tutorial ==
 
 Chair: [[{{ site.baseurl }}/people/wadenstein|{{ site.data.people['wadenstein'].name }}]]
+
+[http://www.ganeti.org/ Ganeti] is a cluster virtual server management software tool built on top of 
+existing virtualization technologies such as Xen or KVM and other open source 
+software.
+
+The participants will participate in hands-on installation and getting 
+started, following the official Ganeti documentation and then doing a few 
+example tasks that the chair will define. The tasks will be perfomed on the 
+test cluster set up in advance, but the participants must use their laptops 
+to connect to it.
