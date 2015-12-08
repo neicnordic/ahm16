@@ -2,3 +2,7 @@
 layout: no-menu
 title: Managing virtual machines with Ganeti - hands-on tutorial
 ---
+
+== {{ session.title }} ==
+
+Chair: [[{{ site.baseurl }}/people/wadenstein|{{ site.data.people['wadenstein'].name }}]]
