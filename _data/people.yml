@@ -26,8 +26,8 @@ azab:
     home: UIO
     role: Sysadmin, Developer
     area: BMS
-    arrival: 25.01.2016
-    departure: 28.01.2016
+    arrival: 25
+    departure: 28
     shuttle: yes
     size: 2 XL
 
