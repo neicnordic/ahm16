@@ -3,7 +3,7 @@ layout: no-menu
 title: Enabling IPv6
 ---
 
-{% include session.wiki %)
+{% include session.wiki %}
 
 [https://en.wikipedia.org/wiki/IPv6 IPv6] is the most recent version of the Internet Protocol (IP).
 
