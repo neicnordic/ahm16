@@ -1,6 +1,6 @@
 ---
 layout: no-menu
-title: Managing virtual machines with Ganeti -- hands-on tutorial
+title: Enabling IPv6
 ---
 
 {% include session.wiki %)
