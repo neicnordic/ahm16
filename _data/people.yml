@@ -272,3 +272,13 @@ jensen:
     departure: 28
     shuttle: yes
     size: M (woman)
+
+robp:
+    name: Rob Pennington
+    home: Pennington Consulting
+    role: Special advisor
+    area: HPC
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: Unknown
