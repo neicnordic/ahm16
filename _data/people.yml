@@ -208,10 +208,10 @@ hochheim:
     home: DTU
     role: sysadmin
     area: BMS
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XXL
 
 jareborg:
     name: Niclas Jareborg
