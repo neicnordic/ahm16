@@ -262,3 +262,13 @@ syed:
     departure: 28
     shuttle: yes
     size: L
+
+jensen:
+    name: Linn Hoff Jensen
+    home: NordForsk
+    role: Communications Adviser
+    area: ADM
+    arrival: 27
+    departure: 28
+    shuttle: yes
+    size: M (woman)
