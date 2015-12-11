@@ -34,13 +34,13 @@ azab:
 behrmann:
     name: Gerd Behrmann
     email:
-    home:
-    role: 
-    area: 
-    arrival:
-    departure: 
-    shuttle:
-    size: 
+    home: Gerd Behrmann
+    role: Developer
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
 
 host:
     name: Gudmund Høst
@@ -66,12 +66,12 @@ karpenko:
 pursula:
     name: Antti Pursula
     home: CSC
-    role: Tryggve PM
+    role: Project man
     area: BMS
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
 
 smirnova:
     name: Oxana Smirnova
@@ -118,10 +118,10 @@ wadenstein:
     home: HPC2N
     role: NT1 coordinator
     area: NT1
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
 
 still:
     name: Dan Still
@@ -282,3 +282,43 @@ robp:
     departure: 28
     shuttle: yes
     size: Unknown
+
+pettersen:
+    name: Pål Pettersen
+    home: NordForsk
+    role: ADM coordinator
+    area: ADM
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
+
+caela:
+    name: Michaela Barth
+    home: PDC-HPC
+    role: GEN coordinator
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: no
+    size: M if it is tight, otherwise maybe S?
+
+freyhult:
+    name: Pontus Freyhult
+    home: BILS (NBIS) / UPPMAX, Uppsala universitet
+    role: Systems developer/architect/expert
+    area: BMS
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
+
+huluka:
+    name: Daniel Huluka
+    home: UiB
+    role: Glenna Project Workgroup Member
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
