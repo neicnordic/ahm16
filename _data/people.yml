@@ -126,12 +126,12 @@ wadenstein:
 still:
     name: Dan Still
     home: CSC
-    role: Glenna PM
+    role: Glenna Project Manager
     area: GEN
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
 
 vitlacil:
     name: Dejan Vitlacil
