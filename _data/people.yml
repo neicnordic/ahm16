@@ -225,13 +225,13 @@ jareborg:
  
 white:
     name: John White
-    home: Geneva
-    role: project manager
+    home: NeIC
+    role: Project manager for EISCAT_3D Support
     area: ENV
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
  
 grawert:
     name: Uwe Grawert
@@ -322,3 +322,13 @@ huluka:
     departure: 28
     shuttle: yes
     size: L
+
+faellman:
+    name: Ingemar Fällman
+    home: HPC2N
+    role: Sysadmin
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XL
