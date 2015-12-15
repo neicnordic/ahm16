@@ -176,12 +176,12 @@ roblitz:
 urkedal:
     name: Petter Urkedal
     home: NBI
-    role: sysadmin
+    role: Sysadmin
     area: NT1
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
 
 chmura:
     name: Piotr Chmura
