@@ -236,12 +236,12 @@ white:
 grawert:
     name: Uwe Grawert
     home: CSC
-    role: developer
+    role: Application specialist
     area: GEN
-    arrival:
-    departure:
-    shuttle:
-    size:
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: L
 
 leinonen:
     name: Jaakko Leinonen
@@ -332,3 +332,13 @@ faellman:
     departure: 28
     shuttle: yes
     size: XL
+
+christensen:
+    name: Lars Næsbye Christensen
+    home: DeIC
+    role: Developer
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
