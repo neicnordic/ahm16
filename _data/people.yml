@@ -342,3 +342,13 @@ christensen:
     departure: 28
     shuttle: yes
     size: M
+
+iozzi:
+    name: Maria Francesca Iozzi
+    home: UIO
+    role: Tryggve Project Member
+    area: BMS
+    arrival: 25
+    departure: 27
+    shuttle: yes
+    size: M/L
