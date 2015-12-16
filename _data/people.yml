@@ -352,3 +352,23 @@ iozzi:
     departure: 27
     shuttle: yes
     size: M/L
+
+markus:
+    name: Diba Markus
+    home: DeIC
+    role: Project Minion
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: M
+
+soettrup:
+    name: Christian Søttrup
+    home: NBI
+    role: Tier 1 operations
+    area: NT1
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XXXL
