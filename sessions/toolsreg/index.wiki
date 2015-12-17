@@ -1,0 +1,12 @@
+---
+layout: no-menu
+title: Presentation of Tools Registry
+---
+
+{% include session.wiki %}
+
+[https://bio.tools/ Tools Registry] is an effort to collect information about 
+bioinformatics tools and resources.
+
+At the tutorial there will be given a presentation about the Registry and a 
+usage demo.
