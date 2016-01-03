@@ -1,0 +1,7 @@
+---
+layout: menu
+title: Documentation workshop
+---
+{% include talk.wiki %}
+
+Documentation pair workshop, where we focus on documentation for l1 and other important nagios alerts

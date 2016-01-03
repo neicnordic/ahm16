@@ -1,0 +1,7 @@
+---
+layout: menu
+title: Recruiting session
+---
+{% include talk.wiki %}
+
+NeIC depends on recruiting good staff for activities. The two important factors for this is making NeIC attractive to individuals so they apply, and making NeIC attractive to employers so they direct their good staff towards us. Brainstorming session on what makes good good.
