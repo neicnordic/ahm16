@@ -1,0 +1,9 @@
+---
+layout: menu
+title: Info Day 4
+---
+{% include talk.wiki %}
+
+We meet before the first session to distribute information on the sessions
+of the day including last minute changes and also providing brief information
+on the bus shuttle departures to Oslo Airport.

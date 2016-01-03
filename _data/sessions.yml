@@ -78,7 +78,7 @@ ganeti:
     chair: wadenstein
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
 
 ipv6:
@@ -86,7 +86,7 @@ ipv6:
     chair: tigerstedt
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
 
 toolsreg:
@@ -94,7 +94,7 @@ toolsreg:
     chair: syed 
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
 
 docker:
@@ -102,7 +102,7 @@ docker:
     chair: azab
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
 
 design:
@@ -151,7 +151,7 @@ nt1-2:
     chair: wadenstein
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
       -
           speaker: wadenstein
@@ -210,7 +210,7 @@ nt1-3:
           speaker: wadenstein
           title: Documentation workshop
 #          abstract: Documentation pair workshop, where we focus on documentation for l1 and other important nagios alerts
-          abstract:
+          abstract: yes
           slides:
 
 
@@ -272,7 +272,7 @@ nt1-4:
           speaker: wadenstein
           title: Recruiting session
 #          abstract: NeIC depends on recruiting good staff for activities. The two important factors for this is making NeIC attractive to individuals so they apply, and making NeIC attractive to employers so they direct their good staff towards us. Brainstorming session on what makes good good.
-          abstract:
+          abstract: yes
           slides:
 
 

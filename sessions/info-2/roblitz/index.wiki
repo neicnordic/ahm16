@@ -1,0 +1,9 @@
+---
+layout: menu
+title: Info Day 2
+---
+{% include talk.wiki %}
+
+We meet before the first session to distribute information on the sessions
+of the day including last minute changes and also providing information on
+planned activities during the break.
