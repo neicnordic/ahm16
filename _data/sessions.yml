@@ -69,7 +69,7 @@ info-2:
     chair: roblitz
     plenary: yes
     room:
-    abstract:
+    abstract: yes
     talks:
 
 
@@ -188,7 +188,7 @@ info-3:
     chair: roblitz
     plenary: yes
     room:
-    abstract:
+    abstract: yes
     talks:
 
 glenna-3:
@@ -250,7 +250,7 @@ info-4:
     chair: roblitz
     plenary: yes
     room:
-    abstract:
+    abstract: yes
     talks:
 
 glenna-4:
