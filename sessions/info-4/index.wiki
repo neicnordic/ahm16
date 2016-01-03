@@ -1,8 +1,8 @@
 ---
-layout: menu
+layout: no-menu
 title: Info Day 4
 ---
-{% include talk.wiki %}
+{% include session.wiki %}
 
 We meet before the first session to distribute information on the sessions
 of the day including last minute changes and also providing brief information
