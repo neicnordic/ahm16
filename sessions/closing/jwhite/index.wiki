@@ -1,0 +1,7 @@
+---
+layout: menu
+title: Closing Session
+---
+{% include session.wiki %}
+
+Placeholder
