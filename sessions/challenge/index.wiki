@@ -35,8 +35,16 @@ Coffee will be served around 17:30.
 '''Note, information is tentative as we're looking into securing
 the necessary hardware.'''
 
-We will use the Makeblock Robot Starter Kit (Bluetooth) as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
+We will use the [[http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (Bluetooth)]] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
 
 You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
 
 '''Have fun!'''
+
+=== Documentation ===
+
+Official documentation from Makeblock:
+* [[http://learn.makeblock.cc/orion/ Me Orion mainboard]], also describes the built-in motor shield.
+* [[http://learn.makeblock.cc/starter_robot_kit/ Starter Kit Mechanical Construction]]. This page describes just the tank, but the linked PDF at the bottom is the full manual which is included on paper in the kit.
+* [[http://learn.makeblock.cc/ultrasonic-sensor/ Me Ultrasonic Sensor]].
+* [[https://github.com/Makeblock-official/Makeblock-Libraries Makeblock-Libraries GitHub Page]].
