@@ -44,7 +44,7 @@ You'll need an Arduino programming environment on your laptop. Details will be d
 === Documentation ===
 
 Official documentation from Makeblock:
-* [[http://learn.makeblock.cc/orion/ Me Orion mainboard]], also describes the built-in motor shield.
-* [[http://learn.makeblock.cc/starter_robot_kit/ Starter Kit Mechanical Construction]]. This page describes just the tank, but the linked PDF at the bottom is the full manual which is included on paper in the kit.
-* [[http://learn.makeblock.cc/ultrasonic-sensor/ Me Ultrasonic Sensor]].
-* [[https://github.com/Makeblock-official/Makeblock-Libraries Makeblock-Libraries GitHub Page]].
+* [http://learn.makeblock.cc/orion/ Me Orion mainboard] including an example using the built-in motor shield.
+* [http://learn.makeblock.cc/starter_robot_kit/ Starter Kit Mechanical Construction]. This page describes just the tank, but the linked PDF at the bottom is the full manual which is included on paper in the kit.
+* [http://learn.makeblock.cc/ultrasonic-sensor/ Me Ultrasonic Sensor].
+* [https://github.com/Makeblock-official/Makeblock-Libraries Makeblock-Libraries GitHub Page].
