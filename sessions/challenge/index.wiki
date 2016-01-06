@@ -49,4 +49,6 @@ Official documentation from Makeblock:
 * [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] using the IDE, but containing other useful information, as well.
 * [http://learn.makeblock.cc/ultrasonic-sensor/ Me Ultrasonic Sensor].
 * [http://wiki.makeblock.cc/index.php?title=Me-Infrared_Receiver_Decode Me Infrared Receiver].
-* [https://github.com/Makeblock-official/Makeblock-Libraries Makeblock-Libraries GitHub Page].
+* Alternative Arduino libraries for Makeblock components:
+* [https://github.com/Makeblock-official/Makeblock-Library Makeblock-Library]: All in one file, works with the arduino-mk package in Ubuntu 14.04.
+* [https://github.com/Makeblock-official/Makeblock-Libraries Makeblock-Libraries]: One source file for each component.
