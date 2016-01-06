@@ -41,6 +41,26 @@ You'll need an Arduino programming environment on your laptop. Details will be d
 
 '''Have fun!'''
 
+=== Using a Makefile ===
+
+The [https://github.com/sudar/Arduino-Makefile Arduino-Makefile] allows building and uploading programs to the Arduino from the command line.  Ubuntu provides this as arduino-mk.  If you use the sources, make sure you also insatll base arduino tools and libraries.  Also check out the [https://github.com/Makeblock-official/Makeblock-Library Makeblock-Library] somewhere.
+
+Once the dependencies are in place, create a fresh directory containing the program with a <tt>.cpp</tt> suffix and a Makefile which might look something like
+
+ ARDUINO_PORT = /dev/ttyUSB0
+ BOARD_TAG = uno
+ ARDUINO_LIBS = SoftwareSerial Wire makeblock
+ USER_LIB_PATH = $(HOME)/ahm16/Makeblock-Library
+
+ include /usr/share/arduino/Arduino.mk
+
+Adjust <tt>USER_LIB_PATH</tt> and the include according to where you installed the software.  Now, typing make will pick up the single source file in the directory, and compile it.  Once you have access to the hardware you can also
+
+ make upload
+ make monitor
+
+The latter starts a screen session connected to USB serial link.
+
 === External Documentation ===
 
 Official documentation from Makeblock:
