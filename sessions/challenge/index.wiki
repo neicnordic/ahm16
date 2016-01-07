@@ -41,6 +41,16 @@ You'll need an Arduino programming environment on your laptop. Details will be d
 
 '''Have fun!'''
 
+== Software ==
+
+You can program the Arduino board using an IDE or a Makefile.  Since time is limited during the challenge, we suggest you install the software in advance and try to compile a program.  During the session, the board is connected to a USB port and behaves like a serial device.
+
+=== Using the IDE ===
+
+Installation and usage of the IDE for different platforms is described on the [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] page.
+
+If you are using Ubuntu, the <tt>arduino</tt> package contains the needed software except for the Makeblock library.
+
 === Using a Makefile ===
 
 The [https://github.com/sudar/Arduino-Makefile Arduino-Makefile] allows building and uploading programs to the Arduino from the command line.  Ubuntu provides this as arduino-mk.  If you use the sources, make sure you also insatll base arduino tools and libraries.  Also check out the [https://github.com/Makeblock-official/Makeblock-Library Makeblock-Library] somewhere.
@@ -61,7 +71,7 @@ Adjust <tt>USER_LIB_PATH</tt> and the include according to where you installed t
 
 The latter starts a screen session connected to USB serial link.
 
-=== External Documentation ===
+== External Documentation ==
 
 Official documentation from Makeblock:
 * [http://learn.makeblock.cc/orion/ Me Orion mainboard] including an example using the built-in motor shield.
