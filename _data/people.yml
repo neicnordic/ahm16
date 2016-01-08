@@ -372,3 +372,23 @@ soettrup:
     departure: 28
     shuttle: yes
     size: XXXL
+
+kvittem:
+    name: Olav Kvittem
+    home: UNINETT
+    role: innovation management
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: no
+    size: L
+
+gislason:
+    name: Magnús Gíslason
+    home: University of Iceland
+    role: Glenna team member
+    area: GEN
+    arrival: 25
+    departure: 28
+    shuttle: yes
+    size: XXL
