@@ -88,9 +88,9 @@ hanseth:
     home: UIO
     role: Keynote speaker 
     area: external
-    arrival:
-    departure:
-    shuttle:
+    arrival: 25
+    departure: 28
+    shuttle: yes
     size:
     
 hedlund:
