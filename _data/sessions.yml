@@ -294,5 +294,5 @@ closing:
     chair: white
     plenary: yes
     room:
-    abstract:
+    abstract: yes
     talks:
