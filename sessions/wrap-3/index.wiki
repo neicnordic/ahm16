@@ -1,0 +1,4 @@
+{% include session.wiki %}
+
+In the session wrap-up the project managers will summerize their discussions
+from day 3 and any ideas which have been gathered.
