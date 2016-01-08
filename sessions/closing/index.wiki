@@ -2,7 +2,7 @@
 layout: menu
 title: Closing Session
 ---
-{% include session.wiki %}
+
 
 In the Closing Session the wrap-up of the previous sessions will be presented.
 The overall summary of the All-Hands meeting will be given.
