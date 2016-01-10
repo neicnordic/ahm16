@@ -1,8 +1,7 @@
 ---
-layout: menu
+layout: no-menu
 title: Closing Session
 ---
-
 
 In the Closing Session the wrap-up of the previous sessions will be presented.
 The overall summary of the All-Hands meeting will be given.
