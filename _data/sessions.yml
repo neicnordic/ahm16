@@ -157,7 +157,7 @@ nt1-2:
           speaker: wadenstein
           title: Discussion session
 #          abstract: Things to discuss: What we need 24/7 coverage on; Pre-prod Ganeti (what do we want to run, how much space does that take, etc); Detailed action point discussion (if enough time).
-          abstract:
+          abstract: yes
           slides:
 
 tryggve-2:
@@ -204,7 +204,7 @@ nt1-3:
     chair: wadenstein
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
       -
           speaker: wadenstein
@@ -240,7 +240,7 @@ wrap-3:
     chair: grawert
     plenary: yes
     room:
-    abstract:
+    abstract: yes
     talks:
 
 ### Day 4
@@ -266,7 +266,7 @@ nt1-4:
     chair: wadenstein
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
       -
           speaker: wadenstein
