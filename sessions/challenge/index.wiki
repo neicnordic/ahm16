@@ -28,14 +28,14 @@ equal size.
 | '''End:''' || Wednesday, Jan 27th, 18:30
 |}
 </div>
-Coffee will be served around 17:30.
+Coffee will be served around 16:30.
 
 == Preparation ==
 
 '''Note, information is tentative as we're looking into securing
 the necessary hardware.'''
 
-We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (Bluetooth)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
+We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (IR)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
 
 You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
 
