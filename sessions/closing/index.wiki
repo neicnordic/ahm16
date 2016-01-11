@@ -2,10 +2,11 @@
 layout: menu
 title: Closing Session
 ---
-
+{% include session.wiki %}
 
 In the Closing Session the wrap-up of the previous sessions will be presented.
 The overall summary of the All-Hands meeting will be given.
 There is an on-line evaluation form to be filled and, finally,
 the information for the next AHM meeting and 
 logistics for the rest of the day will be given.
+

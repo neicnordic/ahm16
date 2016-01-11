@@ -296,3 +296,19 @@ closing:
     room:
     abstract: yes
     talks:
+        -
+            Dan Still, Mattias Wadenstein, Antti Pursula
+            speaker: still
+            title: Wrap-up of Glenna Team Session Day 4
+            abstract:
+            slides:
+        -
+            speaker: wadenstein
+            title: Wrap-up of NT1 Team Session Day 4
+            abstract: 
+            slides:
+        - 
+            speaker: pursula
+            title: Wrap-up of Tryggve Team Session Day 4
+            abstract: 
+            slides:
