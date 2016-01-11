@@ -312,3 +312,23 @@ closing:
             title: Wrap-up of Tryggve Team Session Day 4
             abstract: 
             slides:
+        -
+            speaker: host
+            title: Overall summary of All-Hands meeting
+            abstract:
+            slides:
+        - 
+            speaker: white
+            title: Evaluation of All-Hands meeting
+            abstract:
+            slides: https://nettskjema.uio.no/answer/68933.html
+        - 
+            speaker:
+            title: Next All-Hands meeting
+            abstract:
+            slides:
+        - 
+            speaker: petterson
+            title: Logistics for rest of the day
+            abstract:
+            slides:
