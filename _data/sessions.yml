@@ -297,7 +297,6 @@ closing:
     abstract: yes
     talks:
         -
-            Dan Still, Mattias Wadenstein, Antti Pursula
             speaker: still
             title: Wrap-up of Glenna Team Session Day 4
             abstract:
