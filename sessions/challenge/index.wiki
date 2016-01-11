@@ -28,14 +28,14 @@ equal size.
 | '''End:''' || Wednesday, Jan 27th, 18:30
 |}
 </div>
-Coffee will be served around 17:30.
+Coffee will be served around 16:30.
 
 == Preparation ==
 
 '''Note, information is tentative as we're looking into securing
 the necessary hardware.'''
 
-We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (Bluetooth)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
+We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (IR)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
 
 You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
 
@@ -70,6 +70,18 @@ Adjust <tt>USER_LIB_PATH</tt> and the include according to where you installed t
  make monitor
 
 The latter starts a screen session connected to USB serial link.
+
+== Testing and Mini-Challenge before the Event ==
+
+If you want to try to program an Arduino before we meet in Skeikampen, send an email to urkedal at nbi.dk with your SSH key to get access to a test host.  The host is connected to an Arduino which is connected to 4 LEDs and 3 photoresistors.  Please note that everybody logged in shares the same Arduino, so you will need to take turns if more than one is logged in at the time.
+
+Here are a few things to try:
+
+'''Task 0.1.''' Copy /opt/ahm16-arduino/sample to your directory, then try to compile, upload, and monitor.  Make a few modifications to convince yourself how it works.
+
+'''Task 0.2.''' The photoresistors picks up light from both the ambient environment and the LEDs.  You control one but not the other.  How can you precisly measure how much light intensity hitting a photoresister from just one of the LEDs?  Try it!
+
+'''Task 0.3.''' Determine the intensity on the first two photoresistors from of each of the first four LEDs.  Can you say something about the arragement?
 
 == External Documentation ==
 

@@ -1,3 +1,8 @@
+---
+layout: no-menu
+title: Wrap-up Day 3
+---
+
 {% include session.wiki %}
 
 In the session wrap-up the project managers will summerize their discussions

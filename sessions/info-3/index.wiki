@@ -4,6 +4,6 @@ title: Info Day 3
 ---
 {% include session.wiki %}
 
-We meet before the first session to distribute information on the sessions
+We meet at 8:45AM before the first session to distribute information on the sessions
 of the day including last minute changes and also providing information on
 planned activities during the break.
