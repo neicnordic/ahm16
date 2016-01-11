@@ -1,5 +1,5 @@
 ---
-layout: no-menu
+layout: menu
 title: Closing Session
 ---
 {% include session.wiki %}
