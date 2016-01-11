@@ -1,9 +1,9 @@
 ---
 layout: no-menu
 title: Closing Session
-
-{% include sessions.wiki %}
 ---
+{% include session.wiki %}
+
 In the Closing Session the wrap-up of the previous sessions will be presented.
 The overall summary of the All-Hands meeting will be given.
 There is an on-line evaluation form to be filled and, finally,
