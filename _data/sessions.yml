@@ -45,7 +45,7 @@
 
 opening:
     title: Plenary - Opening Session
-    chair: jareborg
+    chair: vitlacil
     plenary: yes
     room:
     abstract:
@@ -53,12 +53,11 @@ opening:
         -
             speaker: host
             title: Welcome and Introduction
-            abstract:
+            abstract: yes
             slides:
         -
-            speaker: jareborg
+            speaker: vitlacil
             title: Gong Show
-#            abstract: All participants get one minute to present themselves
             abstract: yes
             slides:
 
