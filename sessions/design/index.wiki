@@ -10,7 +10,5 @@ title: Design Issues for e-Infrastructure Services
 
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
-<em>Session abstract</em>
-
 {% include talks.wiki %}
 
