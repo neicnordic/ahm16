@@ -1,9 +1,11 @@
 ---
-layout: menu
+layout: no-menu
 title: Gong show
 ---
-{% include talk.wiki %}
+{% include title_chair.wiki %}
 
 All participants get one minute to present themselves. Be sure to mention your
 name, where you work, and in which NeIC activity you are involved. Apart from
 that, use your time to share as much or little about yourself as you want. 
+
+{% include slides.wiki %}
