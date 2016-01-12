@@ -1,0 +1,16 @@
+---
+layout: no-menu
+title: Design Issues for e-Infrastructure Services
+---
+
+{% assign path_components = page.path|split:'/' %}
+{% assign id = include.id|default:path_components[-2] %}
+{% assign session = site.data.sessions[id] %}
+= {{ session.title }} =
+
+Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
+
+<em>Session abstract</em>
+
+{% include talks.wiki %}
+
