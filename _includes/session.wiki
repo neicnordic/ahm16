@@ -18,6 +18,6 @@ Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[sessi
     {%- endif %}
 {% endfor %}{% endcapture %}
 {% if session.talks %}
-=== Slides ===
+=== Talks ===
 {{ slides }}
 {% endif %}
