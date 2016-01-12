@@ -11,6 +11,14 @@ title: Design Issues for e-Infrastructure Services
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
 <em>Session abstract</em>
+Throughout its history information technology has been continuously changing. This happens partly by new technologies replacing existing ones, and partly by new technologies being added to what exists. This happens both at the level of basic technologies (networking technologies being added to computers) and at the application level (new applications being developed and adopted in addition to and integrated with existing ones). An outcome of these trends is the fact the complexity of the ICT solutions we are developing and using has been rapidly growing. This is illustrated, for instance, by the complexity of 
+•	the Internet itself;
+•	portfolios of hundreds, and sometimes even thousands, of individual but integrated applications in large organizations like banks, hospitals and oil companies (at the same time as these applications are increasingly integrated with applications in external organizations); and
+•	shared solutions supporting international (or global) collaboration between scientists in various disciplines.
+
+The complexity of these solutions goes beyond their technological components – it is also represented by the complexity of the organizational structures (in their user and development communities) which the technological components are connected to.
+
+Researchers within Software Engineering and Information Systems are arguing the complexity of exiting and emerging ICT solutions like those mentioned above make them radically different from traditional software and information systems – so much so that novel approaches for how to develop and sustain these solutions are required. Much research addressing this issue conceptualizes complex ICT solutions as (information, digital, cyber-, or e-) infrastructures. The presentation will identify the key differences between infrastructures and traditional systems, the challenges these differences create, and strategies for how to develop and sustain them that has been proved successful.
 
 {% include talks.wiki %}
 
