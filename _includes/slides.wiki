@@ -1,0 +1,14 @@
+{% assign path_components = page.path|split:'/' %}
+{% assign session = include.session|default:path_components[-3] %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign talks = site.data.sessions[session].talks %}
+{% assign talk = talks|find_first:'id',id|default:talks|find_first:'speaker',id %}
+
+{% capture slides %}{% for slides in talk.slides %}* [[{{ slides }}|{{ slides|split:'/'|last }}]]
+{% endfor %}{% endcapture %}
+{% if slides.size >= 1 %}
+Slides:
+{{ slides }}
+{% endif %}
+

@@ -1,0 +1,11 @@
+{% assign path_components = page.path|split:'/' %}
+{% assign session = include.session|default:path_components[-3] %}
+{% assign id = include.id|default:path_components[-2] %}
+
+{% assign talks = site.data.sessions[session].talks %}
+{% assign talk = talks|find_first:'id',id|default:talks|find_first:'speaker',id %}
+
+= {{ talk.title }} =
+{# <img class="smallpic" src="{{ site.data.people[talk.speaker].image|default:'/media/person.png' }}"> #}
+[[{{ site.baseurl }}/people/{{ talk.speaker }}|{{ site.data.people[talk.speaker].name }}]]
+
