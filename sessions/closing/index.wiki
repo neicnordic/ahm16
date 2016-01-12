@@ -2,11 +2,16 @@
 layout: no-menu
 title: Closing Session
 ---
+
+= {{ session.title }} =
+
+Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
+
 In the Closing Session the wrap-up of the previous sessions will be presented.
 The overall summary of the All-Hands meeting will be given.
 There is an on-line evaluation form to be filled and, finally,
 the information for the next AHM meeting and 
 logistics for the rest of the day will be given.
 
-{% include session.wiki %}
+{% include talks.wiki %}
 
