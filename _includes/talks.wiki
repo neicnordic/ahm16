@@ -13,7 +13,7 @@
         &nbsp; [[{{ talk.slides[0] }}|Slides]] 
     {%- elsif talk.slides.size > 1 -%} 
         &nbsp; Slides: &#91;{{ nnl -}}{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}[[{{ slides }}|{{ forloop.index }}]]{% endfor %}&#93;
-    {%- endif -%}
+    {%- endif %}
 {% endfor %}{% endcapture %}
 {% if session.talks %}
 === Talks ===
