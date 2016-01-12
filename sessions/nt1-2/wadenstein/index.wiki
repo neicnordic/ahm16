@@ -1,7 +1,9 @@
 ---
-layout: menu
+layout: no-menu
 title: Discussion session
 ---
-{% include talk.wiki %}
+{% include title_chair.wiki %}
 
 Things to discuss: What we need 24/7 coverage on; Pre-prod Ganeti (what do we want to run, how much space does that take, etc); Detailed action point discussion (if enough time).
+
+{% include slides.wiki %}
