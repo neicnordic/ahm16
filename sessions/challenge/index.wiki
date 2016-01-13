@@ -34,26 +34,37 @@ Coffee will be served around 16:30.
 
 We have distributed the participants over four teams. You may get in contact with eachother already now to prepare for the challenge.
 
-{|class="wikitable"
-|- style="text-align: center;"
-| Team Red || Team Yellow || Team Blue || Team Green
-|- style="background: #ABE; text-align: left;"
-| Ingemar || Christian || Daniel || Diba 
-|-
-| Erik || Rob || Gerd || Dmytro 
-|-
-| Erland || Ali || Abdulrahman || Antti 
-|-
-| Dan || Magnus || John || Pål 
-|-
-| Olav || Lars || Uwe || Dejan 
-|-
-| Mattias || Michaela || Oxana || Ulf 
-|-
-| Linn || Joel || Gudmund || Pontus 
-|-
-| Niclas || Jens || Jonas || Jaako 
-|}
+<div id="smallbottommargin">
+<table>
+<tr>
+<th>Team Red</th><th>Team Yellow</th><th>Team Blue</th><th>Team Green</th>
+</tr>
+<tr>
+<td>Ingemar</td><td>Christian</td><td>Daniel</td><td>Diba</td>
+</tr>
+<tr>
+<td>Erik</td><td>Rob</td><td>Gerd</td><td>Dmytro</td>
+</tr>
+<tr>
+<td>Erland</td><td>Ali</td><td>Abdulrahman</td><td>Antti</td>
+</tr>
+<tr>
+<td>Dan</td><td>Magnus</td><td>John</td><td>Pål</td>
+</tr>
+<tr>
+<td>Olav</td><td>Lars</td><td>Uwe</td><td>Dejan</td>
+</tr>
+<tr>
+<td>Mattias</td><td>Michaela</td><td>Oxana</td><td>Ulf</td>
+</tr>
+<tr>
+<td>Linn</td><td>Joel</td><td>Gudmund</td><td>Pontus</td>
+</tr>
+<tr>
+<td>Niclas</td><td>Jens</td><td>Jonas</td><td>Jaako</td>
+</tr>
+</table>
+</div>
 
 
 == Preparation ==
