@@ -32,26 +32,27 @@ Coffee will be served around 16:30.
 
 == Preparation ==
 
-'''Note, information is tentative as we're looking into securing
-the necessary hardware.'''
-
 We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (IR)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
 
 You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
 
 '''Have fun!'''
 
-== Software ==
+=== Software ===
 
-You can program the Arduino board using an IDE or a Makefile.  Since time is limited during the challenge, we suggest you install the software in advance and try to compile a program.  During the session, the board is connected to a USB port and behaves like a serial device.
+You can program the Arduino board using an IDE or a Makefile.  Since time is limited during the challenge, we suggest you install the software in advance and try to compile a program. In addition to the IDE or makefile-based environment, you'll need the Makeblock library which let's you easily program different electronic modules and includes a number of examples.
 
-=== Using the IDE ===
+During the session, the board is connected to a USB port and behaves like a serial device.
 
-Installation and usage of the IDE for different platforms is described on the [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] page.
+==== Using the IDE ====
+
+Installation and usage of the IDE for different platforms is described on the [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] page. The page links to a relatively old version (1.0.6) of the Arduino IDE. You may also get the most recent stable version (1.6.7) from [https://www.arduino.cc].
 
 If you are using Ubuntu, the <tt>arduino</tt> package contains the needed software except for the Makeblock library.
 
-=== Using a Makefile ===
+The Makeblock library is available from [http://learn.makeblock.cc/learning-arduino/#Step2-Install-Makeblock-Library-for-Arduino]. Follow the instructions at page to install it.
+
+==== Using a Makefile ====
 
 The [https://github.com/sudar/Arduino-Makefile Arduino-Makefile] allows building and uploading programs to the Arduino from the command line.  Ubuntu provides this as arduino-mk.  If you use the sources, make sure you also insatll base arduino tools and libraries.  Also check out the [https://github.com/Makeblock-official/Makeblock-Library Makeblock-Library] somewhere.
 
@@ -70,6 +71,58 @@ Adjust <tt>USER_LIB_PATH</tt> and the include according to where you installed t
  make monitor
 
 The latter starts a screen session connected to USB serial link.
+
+==== Understanding the Makeblock Orion Board ====
+
+[http://learn.makeblock.cc/orion/ Makeblock Orion] contains valuable information about the Arduino board and its ports.
+
+==== Sample Program for Communicating with Available Electronics ====
+
+During the challenge, you'll have access to two motors, a 7-segment display, and two micro switches. The following program code might be used as a starting point. Note, due to the actual wiring of your robot you may need to invert/change values or tests ... you'll figure this out ;)
+
+ //#include "Makeblock.h"
+ #include "MeOrion.h"  // either this include or Makeblock.h, depending on version of the Makeblock library
+
+ MeUltrasonicSensor us(PORT_3); // note, electronics may only be connected to a subset of the ports
+ Me7SegmentDisplay sd(PORT_4);
+ MeLimitSwitch switch1(PORT_7,SLOT2); // note, the switches may only work on slot2 of the RJ25 adapters
+ MeDCMotor mr(M1);
+ MeDCMotor ml(M2);
+
+ void setup()
+ {
+ }
+
+ void loop()
+ {
+   // read from ultrasonic sensor
+   double distance = us.distanceCm();
+
+   // display 2016 on 7-segment module
+   sd.display(2016);
+
+   // turn on motor (increasing speed)
+   for(int i = 1; i <= 256; i = i<<1)
+   {
+     ml.run(i - 1); // speed value range is [-255,255]
+     delay(1000); // let the motor spin for 1000 ms
+     mr.run(-i + 1); // speed value range is [-255,255]
+     delay(1000); // let the motor spin for 1000 ms
+   }
+
+   // test micro switch
+   for(int i = 0; i < 10; i++)
+   {
+     if (switch1.touched())
+     {
+       sd.display(1);
+       delay(1000);
+     } else {
+       sd.display(0);
+       delay(1000);
+     }
+   }
+ }
 
 == Testing and Mini-Challenge before the Event ==
 
