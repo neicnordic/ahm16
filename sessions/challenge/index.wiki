@@ -37,31 +37,34 @@ We have distributed the participants over four teams. You may get in contact wit
 <div id="smallbottommargin">
 <table>
 <tr>
-<th style="background: #800000;">Team Red</th><th>Team Yellow</th><th>Team Blue</th><th>Team Green</th>
+<th style="background: #F03020; margin-left:8px; margin-right:8px;">Team Red</th>
+<th style="background: #F8C040; margin-left:8px; margin-right:8px;">Team Yellow</th>
+<th style="background: #4080F0; margin-left:8px; margin-right:8px;">Team Blue</th>
+<th style="background: #18A008; margin-left:8px; margin-right:8px;">Team Green</th>
 </tr>
 <tr>
-<td style="background: #800000;">Ingemar</td><td>Christian</td><td>Daniel</td><td>Diba</td>
+<td style="background: #F03020;">Ingemar</td><td>Christian</td><td>Daniel</td><td>Diba</td>
 </tr>
 <tr>
-<td style="background: #800000;">Erik</td><td>Rob</td><td>Gerd</td><td>Dmytro</td>
+<td style="background: #F03020;">Erik</td><td>Rob</td><td>Gerd</td><td>Dmytro</td>
 </tr>
 <tr>
-<td style="background: #800000;">Erland</td><td>Ali</td><td>Abdulrahman</td><td>Antti</td>
+<td style="background: #F03020;">Erland</td><td>Ali</td><td>Abdulrahman</td><td>Antti</td>
 </tr>
 <tr>
-<td style="background: #800000;">Dan</td><td>Magnus</td><td>John</td><td>Pål</td>
+<td style="background: #F03020;">Dan</td><td>Magnus</td><td>John</td><td>Pål</td>
 </tr>
 <tr>
-<td style="background: #800000;">Olav</td><td>Lars</td><td>Uwe</td><td>Dejan</td>
+<td style="background: #F03020;">Olav</td><td>Lars</td><td>Uwe</td><td>Dejan</td>
 </tr>
 <tr>
-<td style="background: #800000;">Mattias</td><td>Michaela</td><td>Oxana</td><td>Ulf</td>
+<td style="background: #F03020;">Mattias</td><td>Michaela</td><td>Oxana</td><td>Ulf</td>
 </tr>
 <tr>
-<td style="background: #800000;">Linn</td><td>Joel</td><td>Gudmund</td><td>Pontus</td>
+<td style="background: #F03020;">Linn</td><td>Joel</td><td>Gudmund</td><td>Pontus</td>
 </tr>
 <tr>
-<td style="background: #800000;">Niclas</td><td>Jens</td><td>Jonas</td><td>Jaako</td>
+<td style="background: #F03020;">Niclas</td><td>Jens</td><td>Jonas</td><td>Jaako</td>
 </tr>
 </table>
 </div>
