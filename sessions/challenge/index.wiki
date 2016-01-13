@@ -28,6 +28,28 @@ equal size.
 | '''End:''' || Wednesday, Jan 27th, 18:30
 |}
 </div>
+
+=== Detailed Schedule ===
+
+<div id="smallbottommargin">
+{|class="wikitable"
+|- style="text-align: left;"
+| '''Introduction''' || 15:00 - 15:05
+|-
+| '''Construction phase''' || 15:05 - 17:55
+|-
+| '''Gather for the competition''' || 17:55 - 18:00
+|-
+| '''Competition 1st round''' || 18:00 - 18:05
+|-
+| '''Competition 2nd round''' || 18:10 - 18:15
+|-
+| '''Competition 3rd round''' || 18:20 - 18:25
+|-
+| '''And the winner is''' || 18:25 - 18:30
+|}
+</div>
+
 Coffee will be served around 16:30.
 
 == Teams ==
