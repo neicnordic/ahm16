@@ -40,11 +40,7 @@ equal size.
 |-
 | '''Gather for the competition''' || 17:55 - 18:00
 |-
-| '''Competition 1st round''' || 18:00 - 18:05
-|-
-| '''Competition 2nd round''' || 18:10 - 18:15
-|-
-| '''Competition 3rd round''' || 18:20 - 18:25
+| '''Competition''' || 18:00 - 18:25
 |-
 | '''And the winner is''' || 18:25 - 18:30
 |}
