@@ -10,9 +10,9 @@
     |* '''[[{{ talk.id|default:talk.speaker }}|{{ talk.title }}]]''' <br/> {{ nnl -}} 
     |[[{{ site.baseurl }}/people/{{ talk.speaker }}|{{ site.data.people[talk.speaker].name }}]] {{ nnl -}}
     {%- if talk.slides.size == 1 -%} 
-        &nbsp; [[{{ talk.slides[0] }}|Slides -]] 
+        &nbsp; [[{{ talk.slides[0] }}|Slides ]] {{ nnl -}}
     {%- elsif talk.slides.size > 1 -%} 
-        &nbsp; Slides: &#91;{{ nnl -}}{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}[[{{ slides }}|{{ forloop.index }}]]{% endfor %}&#93;{{ nnl -}}
+        &nbsp; Slides: &#91;{% for slides in talk.slides %}{% if forloop.index != 1 %}, {% endif %}[[{{ slides }}|{{ forloop.index }}]]{% endfor %}&#93;{{ nnl -}}
     {%- endif %}
 {% endfor -%}{% endcapture -%}
 {% if session.talks %}
