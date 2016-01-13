@@ -316,7 +316,8 @@ closing:
             speaker: white
             title: Evaluation of All-Hands meeting
             abstract:
-            slides: https://nettskjema.uio.no/answer/68933.html
+            slides: 
+                - https://nettskjema.uio.no/answer/68933.html
         - 
             speaker: host
             title: Next All-Hands meeting
