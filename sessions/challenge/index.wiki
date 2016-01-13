@@ -37,34 +37,58 @@ We have distributed the participants over four teams. You may get in contact wit
 <div id="smallbottommargin">
 <table>
 <tr>
-<th style="background: #F03020; margin-left:8px; margin-right:8px;">Team Red</th>
-<th style="background: #F8C040; margin-left:8px; margin-right:8px;">Team Yellow</th>
-<th style="background: #4080F0; margin-left:8px; margin-right:8px;">Team Blue</th>
-<th style="background: #18A008; margin-left:8px; margin-right:8px;">Team Green</th>
+<th style="background: #F03020; padding-left:8px; padding-right:8px;">Team Red</th>
+<th style="background: #F8C040; padding-left:8px; padding-right:8px;">Team Yellow</th>
+<th style="background: #4080F0; padding-left:8px; padding-right:8px;">Team Blue</th>
+<th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green</th>
 </tr>
 <tr>
-<td style="background: #F03020;">Ingemar</td><td>Christian</td><td>Daniel</td><td>Diba</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Ingemar</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Christian</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Daniel</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Diba</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Erik</td><td>Rob</td><td>Gerd</td><td>Dmytro</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Erik</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Rob</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Gerd</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Dmytro</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Erland</td><td>Ali</td><td>Abdulrahman</td><td>Antti</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Erland</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Ali</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Abdulrahman</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Antti</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Dan</td><td>Magnus</td><td>John</td><td>Pål</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Dan</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Magnus</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">John</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Pål</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Olav</td><td>Lars</td><td>Uwe</td><td>Dejan</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Olav</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Lars</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Uwe</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Dejan</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Mattias</td><td>Michaela</td><td>Oxana</td><td>Ulf</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Mattias</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Michaela</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Oxana</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Ulf</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Linn</td><td>Joel</td><td>Gudmund</td><td>Pontus</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Linn</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Joel</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Gudmund</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Pontus</td>
 </tr>
 <tr>
-<td style="background: #F03020;">Niclas</td><td>Jens</td><td>Jonas</td><td>Jaako</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">Niclas</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Jens</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Jonas</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">Jaako</td>
 </tr>
 </table>
 </div>
