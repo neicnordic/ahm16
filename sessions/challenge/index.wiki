@@ -30,13 +30,23 @@ equal size.
 </div>
 Coffee will be served around 16:30.
 
+== Teams ==
+
+We have distributed the participants over four teams. You may get in contact with eachother already now to prepare for the challenge.
+
+{|class="wikitable"
+|- style="text-align: center;"
+| Team Red || Team Yellow || Team Blue || Team Green
+|-
+! style="background: #ABE; text-align: left;" | one<br />two | one<br />two | one<br />two | one<br />two 
+|}
+
+
 == Preparation ==
 
 We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Starter Kit (IR)] as a basis, and may add 1-2 additional sensors plus some mechanical parts for increased construction capabilities.
 
-You'll need an Arduino programming environment on your laptop. Details will be described in the coming weeks.
-
-'''Have fun!'''
+You'll need an Arduino programming environment on your laptop. Details incl a hands-on mini-challenge are described below.
 
 === Software ===
 
@@ -46,11 +56,11 @@ During the session, the board is connected to a USB port and behaves like a seri
 
 ==== Using the IDE ====
 
-Installation and usage of the IDE for different platforms is described on the [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] page. The page links to a relatively old version (1.0.6) of the Arduino IDE. You may also get the most recent stable version (1.6.7) from [https://www.arduino.cc].
+Installation and usage of the IDE for different platforms is described on the [http://learn.makeblock.cc/learning-arduino/ Arduino Programming] page. The page links to a relatively old version (1.0.6) of the Arduino IDE. You may also get the most recent stable version (1.6.7) from [https://www.arduino.cc www.arduino.cc].
 
 If you are using Ubuntu, the <tt>arduino</tt> package contains the needed software except for the Makeblock library.
 
-The Makeblock library is available from [http://learn.makeblock.cc/learning-arduino/#Step2-Install-Makeblock-Library-for-Arduino]. Follow the instructions at page to install it.
+The Makeblock library is available from [http://learn.makeblock.cc/learning-arduino/#Step2-Install-Makeblock-Library-for-Arduino learn.makeblock.cc]. Follow the instructions at page to install it.
 
 ==== Using a Makefile ====
 
@@ -78,7 +88,7 @@ The latter starts a screen session connected to USB serial link.
 
 ==== Sample Program for Communicating with Available Electronics ====
 
-During the challenge, you'll have access to two motors, a 7-segment display, and two micro switches. The following program code might be used as a starting point. Note, due to the actual wiring of your robot you may need to invert/change values or tests ... you'll figure this out ;)
+During the challenge, you'll have access to two motors, a 7-segment display, an ultrasonic sensor and two micro switches. The following program code might be used as a starting point. Note, due to the actual wiring of your robot you may need to invert/change values or tests ... you'll figure this out ;)
 
  //#include "Makeblock.h"
  #include "MeOrion.h"  // either this include or Makeblock.h, depending on version of the Makeblock library
