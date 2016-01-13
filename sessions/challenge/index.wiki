@@ -39,12 +39,19 @@ We have distributed the participants over four teams. You may get in contact wit
 | Team Red || Team Yellow || Team Blue || Team Green
 |- style="background: #ABE; text-align: left;"
 | Ingemar || Christian || Daniel || Diba 
+|-
 | Erik || Rob || Gerd || Dmytro 
+|-
 | Erland || Ali || Abdulrahman || Antti 
+|-
 | Dan || Magnus || John || Pål 
+|-
 | Olav || Lars || Uwe || Dejan 
+|-
 | Mattias || Michaela || Oxana || Ulf 
+|-
 | Linn || Joel || Gudmund || Pontus 
+|-
 | Niclas || Jens || Jonas || Jaako 
 |}
 
