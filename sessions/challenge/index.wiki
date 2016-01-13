@@ -100,6 +100,8 @@ We will use the [http://www.makeblock.cc/starter-robot-kit/ Makeblock Robot Star
 
 You'll need an Arduino programming environment on your laptop. Details incl a hands-on mini-challenge are described below.
 
+If you want to verify before the actual challenge that you can actually upload an image from you laptop to the Makeblock Orion board, please let us know and we find a time slot on Monday or Tuesday.
+
 === Software ===
 
 You can program the Arduino board using an IDE or a Makefile.  Since time is limited during the challenge, we suggest you install the software in advance and try to compile a program. In addition to the IDE or makefile-based environment, you'll need the Makeblock library which let's you easily program different electronic modules and includes a number of examples.
