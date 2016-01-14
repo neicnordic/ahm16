@@ -4,6 +4,9 @@ title: Discussion session
 ---
 {% include title_chair.wiki %}
 
-Things to discuss: XYZ
+This session will focus on work in the individual work packages with an emphasis on the new cloud storage WP (WP!)and the work ahead in WP5 especially concerning resource sharing and SLA design. 
+Particular focus on issues in WP6 (Dissemination) in particular creating a web site for Glenna. 
+
+
 
 {% include slides.wiki %}
