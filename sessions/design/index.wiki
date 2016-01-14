@@ -10,5 +10,9 @@ title: Design Issues for e-Infrastructure Services
 
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
+This plenary session consists of a keynote by Ole Hanseth on Design Issues for Knowledge Infrastructures.
+
+This will be followed by brief presentations from each of the NeIC projects Tier-1, Glenna, Tryggve and E3DS, about the pricipal ideas behind the design of each project,
+
 {% include talks.wiki %}
 
