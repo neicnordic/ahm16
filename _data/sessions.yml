@@ -141,7 +141,7 @@ glenna-2:
     chair: still
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
       -
           speaker: still
