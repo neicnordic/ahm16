@@ -4,8 +4,7 @@ title: Tryggve technical workshop
 ---
 {% include talk.wiki %}
 
-The description of the session:
-“This session is about technical topics in the Tryggve project. We will also discuss
+This session is about technical topics in the Tryggve project. We will also discuss
 feedback from the tutorial sessions earlier at the same day. The session will also look
 at the current status of ongoing developments, discussion and planning for next actions.
 
