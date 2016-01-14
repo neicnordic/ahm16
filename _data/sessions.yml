@@ -143,6 +143,11 @@ glenna-2:
     room:
     abstract:
     talks:
+      -
+          speaker: still
+          title: Discussion session
+          abstract: yes
+          slides:
 
 nt1-2:
     title: NT1 Team Session Day 2
@@ -262,6 +267,11 @@ glenna-4:
     room:
     abstract:
     talks:
+      -
+          speaker: still
+          title: Discussion on 1H 2016 Glenna work 
+          abstract: yes
+          slides:
 
 nt1-4:
     title: NT1 Team Session Day 4
