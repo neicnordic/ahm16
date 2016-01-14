@@ -1,9 +1,0 @@
----
-layout: no-menu
-title: Discussion session
----
-{% include title_chair.wiki %}
-
-Things to discuss: 
-
-{% include slides.wiki %}
