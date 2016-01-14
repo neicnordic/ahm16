@@ -10,6 +10,7 @@ WP3: automated building & configuration, Cloud security
 WP4: Blueprints & iPython notebook - 
 
 Discussion on date for spring F2F. 
+
 Questions for Day3 and Day 4
 
 {% include slides.wiki %}
