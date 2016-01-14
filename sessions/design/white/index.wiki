@@ -1,14 +1,8 @@
 ---
 layout: no-menu
-title: Design Issues for e-Infrastructure Services
+title: E3DS Design in 5min
 ---
-
-{% assign path_components = page.path|split:'/' %}
-{% assign id = include.id|default:path_components[-2] %}
-{% assign session = site.data.sessions[id] %}
-= {{ session.title }} =
-
-Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
+{% include title_chair.wiki %}
 
 The NeIC EISCAT_3D Support Project (E3DS) helps the future EISCAT_3D project in planning and tendering their required e-infrastructure. 
 
@@ -16,4 +10,4 @@ The E3DS project aims to make it possible to expand and enhance the usage of exi
 
 The design of the EISCAT_3D e-infrastructure must take into account the principles of cost-effectiveness, capacity to perform the tasks, ease of use and future expansion.
 
-{% include talks.wiki %}
+{% include slides.wiki %}
