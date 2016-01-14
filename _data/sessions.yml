@@ -194,8 +194,13 @@ glenna-3:
     chair: still
     plenary: no
     room:
-    abstract:
+    abstract: yes
     talks:
+      -
+          speaker: still
+          title: Introduction to Glenna 
+          abstract: Introduction to the project and results for nedw members. Discussion on Cloud Storage (WP1)
+          slides:
 
 nt1-3:
     title: NT1 Team Session Day 3
