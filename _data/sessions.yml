@@ -145,7 +145,7 @@ glenna-2:
     talks:
       -
           speaker: still
-          title: Discussion session
+          title: Introduction to Glenna
           abstract: yes
           slides:
 
@@ -203,7 +203,7 @@ glenna-3:
     talks:
       -
           speaker: still
-          title: Introduction to Glenna
+          title: Glenna discussion session 
           abstract: yes
           slides:
 
