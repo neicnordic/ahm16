@@ -8,7 +8,9 @@ Dan will present the project and progress so far. Presentations from each WP on 
 WP2: progress on federated access to resources. Status report from SWITCH meeting on OpenStack federations 
 WP3: automated building & configuration, Cloud security 
 WP4: Blueprints & iPython notebook
+
 Open discussion
+
 Discussion on date for spring F2F. 
 Questions for Day3 and Day 4
 
