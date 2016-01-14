@@ -1,0 +1,8 @@
+---
+layout: menu
+title: Code of Conduct (Jaakko Leinonen & Jonas Hagberg)
+---
+{% include talk.wiki %}
+
+In this session the tryggve team will focus on to produce a good set of preliminary “code of conduct” for the nordic collaboration. The aim is to enable different authorities and data repositories to trust their data to be moved to the compliant secure systems.
+ 
