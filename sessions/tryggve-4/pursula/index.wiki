@@ -1,0 +1,11 @@
+---
+layout: menu
+title: Tryggve planning workshop
+---
+{% include talk.wiki %}
+
+This session will continue planning of next steps in the Tryggve project, including how to
+coordinate and collaborate with ELIXIR Excelerate project in preparing Nordic local EGA
+nodes. The Steering group of the project expects to see a plan on the latter topic by their
+meeting in early March. Another important topic is to discuss on new use cases
+and how to upgrade activity towards potential pilot users.

@@ -89,7 +89,7 @@ ipv6:
 
 toolsreg:
     title: Tutorial - Tools Registry
-    chair: syed 
+    chair: syed
     plenary: no
     room:
     abstract: yes
@@ -166,9 +166,9 @@ tryggve-2:
     abstract:
     talks:
       -
-          speaker: chmura
-          title: Tools registry for Dockers and Tryggve
-          abstract:
+          speaker: pursula
+          title: Tryggve technical workshop
+          abstract: yes
           slides:
 
 wrap-2:
@@ -198,7 +198,7 @@ glenna-3:
     talks:
       -
           speaker: still
-          title: Introduction to Glenna 
+          title: Introduction to Glenna
           abstract: yes
           slides:
 
@@ -287,7 +287,7 @@ tryggve-4:
       -
           speaker: pursula
           title: Project planning and next goals
-          abstract:
+          abstract: yes
           slides:
 
 closing:
@@ -305,25 +305,25 @@ closing:
         -
             speaker: wadenstein
             title: Wrap-up of NT1 Team Session Day 4
-            abstract: 
+            abstract:
             slides:
-        - 
+        -
             speaker: pursula
             title: Wrap-up of Tryggve Team Session Day 4
-            abstract: 
+            abstract:
             slides:
         -
             speaker: host
             title: Overall summary of All-Hands meeting
             abstract:
             slides:
-        - 
+        -
             speaker: white
             title: Evaluation of All-Hands meeting
             abstract:
-            slides: 
+            slides:
                 - https://nettskjema.uio.no/answer/68933.html
-        - 
+        -
             speaker: host
             title: Next All-Hands meeting
             abstract:
