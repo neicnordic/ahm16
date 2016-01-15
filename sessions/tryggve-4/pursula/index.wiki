@@ -2,7 +2,6 @@
 layout: menu
 title: Tryggve planning workshop
 ---
-{% include talk.wiki %}
 
 This session will continue planning of next steps in the Tryggve project, including how to
 coordinate and collaborate with ELIXIR Excelerate project in preparing Nordic local EGA

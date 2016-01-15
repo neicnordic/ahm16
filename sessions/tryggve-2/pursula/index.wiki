@@ -2,7 +2,6 @@
 layout: menu
 title: Tryggve technical workshop
 ---
-{% include talk.wiki %}
 
 This session is about technical topics in the Tryggve project. We will also discuss
 feedback from the tutorial sessions earlier at the same day. The session will also look

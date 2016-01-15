@@ -2,10 +2,11 @@
 layout: no-menu
 title: Discussion on 1H 2016 Glenna work 
 ---
+
 {% include title_chair.wiki %}
 
 This session will focus on the work ahead of the project for spring 2016, in particular on deliverables and documentation and the steps necessary for successful hand over to NeIC.
-Another topoic will be the marketing and dissemination activities we need to initiate for successful adoptation. 
+Another topic will be the marketing and dissemination activities we need to initiate for successful exploitation of the project's results. 
 
 {% include slides.wiki %}
 
