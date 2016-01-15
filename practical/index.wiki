@@ -8,7 +8,35 @@ title: Practicalities
 * [http://www.thonhotels.com/hotels/countrys/norway/skeikampen/thon-hotel-skeikampen/ Thon Hotel Skeikampen] is located 150 km from Oslo airport and reachable by public transportation. 
 * Information about [http://www.skeikampen.no/en Skeikampen] destination. You may want to consider bringing your favourite swimming trunks or ski boots for use of amenities out of scheduled hours.
 
+== Travel to Skeikampen ==
+
+* NeIC organizes a shuttle bus from Oslo Airport (OSL, Gardermoen)
+leaving 14h00, January 25th. Everyone having indicated to take the
+bus shall meet until 13h45 at the meeting point (arrival hall after
+the customs) shown on page 2 of the
+[https://avinor.no/globalassets/_oslo-lufthavn/publikumskart_osl.pdf Oslo Airport map].<br /> <br />
+Dejan Vitlacil will coordinate the bus leave. In case of any
+problems/delays etc., please contact him as soon as possible via
+phone +46 76 064 18 45.
+
+* You can also go by train and bus to Skeikampen. Check train
+schedules from Oslo Airport (OSL, Gardermoen) to Lillehammer at
+[https://www.nsb.no/en NSB]. From Lillehammer skysstasjon (at the
+railway station) a local bus goes to Skeikampen but only has a
+few departures per day (Mon-Fri: 09h15, 10h15, 15h15 and 16h15;
+Sat: 09h15, 10h15 and 15h15; Sun: 09h15 and 15h15). See
+[http://www.opplandstrafikk.no/Handlers/fh.ashx?MId1=377&FilId=2759bus schedule].
+
+== Travel from Skeikampen ==
+
+* NeIC organizes two shuttle busses to Oslo Airport (OSL, Gardermoen)
+leaving Skeikampen at 13h00 and 14h00, January 28th. The busses should
+arrive at about 16h00 and 17h00 at the airport.
+
+* Check train and bus schedules at the above linked pages.
+
 == Information channels ==
 This conference website is the main channel of information about this meeting.
 
-Planning is carried out on the [http://wiki.neic.no/int/ahm16 internal wiki]. As details become finalized, they are moved here.
+Before, during and after the meeting you may chat with all NeIC staff in the
+Slack channel #ahm16.
