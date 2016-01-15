@@ -5,7 +5,6 @@ title: Wrap-up Day 3
 
 {% include session.wiki %}
 
-In the session wrap-up the project managers will summerise their discussions
-from day 3 and any ideas which have been gathered.
+In the session ''Wrap-up'', the project managers will summarise their discussions from day 3 and any ideas which have been gathered.
 
-After the session summarisation, informations for the return trip on thursday will be provided.
+The session will also provide information for the return trip on thursday.

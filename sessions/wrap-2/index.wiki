@@ -5,30 +5,26 @@ title: Wrap-up Day 2
 
 {% include session.wiki %}
 
-In the session wrap-up, the project managers will summerise their discussions
-from day 2 and any ideas which have been gathered.
+In the session ''Wrap-up'', the session chairs, project managers and tutorial presenters will summarise their discussions from day 2 and any ideas which have been gathered.
 
-Summerization should follow the following templates:
+Every summary should follow the following templates:
 
-1. For peresentations:
+# For presentations:
+## Short summary (max two lines)
+## Session targets:
+##* T1
+##* T2
+##* ...
+## New ideas (from feedback):
+##* I1
+##* I2
+##* ...
 
-Short summery  [max two lines]
-Session targets:
-T1
-T2
-…
-New ideas (from feedback):
-I1
-I2
-…
-
-2. For tutorials:
-
-Number of Attendances:  
-Hands-on exercises (If any):
-Ex1 --> completed/not-completed
-Ex2 --> completed/not-completed
-…
-Interesting feedback:
-…
-… 
+# For tutorials:
+## Number of participants:  
+## Hands-on exercises (If any):
+##* Exercise 1 --> completed/not-completed
+##* Exercise 2 --> completed/not-completed
+##* ...
+## Interesting feedback:
+##* ...
