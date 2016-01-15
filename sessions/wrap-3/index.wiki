@@ -7,4 +7,16 @@ title: Wrap-up Day 3
 
 In the session ''Wrap-up'', the project managers will summarise their discussions from day 3 and any ideas which have been gathered.
 
+Every summary should follow the following template:
+
+# Short summary (max two lines)
+# Session targets:
+#* T1
+#* T2
+#* ...
+# New ideas (from feedback):
+#* I1
+#* I2
+#* ...
+
 The session will also provide information for the return trip on thursday.
