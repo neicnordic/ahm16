@@ -218,6 +218,10 @@ Here are a few things to try:
 
 '''Task 0.3.''' Determine the intensity on the first two photoresistors from of each of the first four LEDs.  Can you say something about the arragement?
 
+== Challenge Sneak Preview ==
+
+We thought it would be good if you already get information about the actual challenge before the meeting. See [http://ahm16.neic.nordforsk.org/media/ahm16_challenge.pdf here]. Note, some information may be kept secret until the challenge sessions start.
+
 == External Documentation ==
 
 Official documentation from Makeblock:
