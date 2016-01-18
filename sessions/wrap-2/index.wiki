@@ -9,20 +9,20 @@ In the session ''Wrap-up'', the session chairs, project managers and tutorial pr
 
 Every summary should follow the following templates:
 
-==For presentations:==
+==Presentations==
 Short summary (max two lines)
-===Session targets:===
+===Session targets===
 * T1
 * T2
 * ...
-===New ideas (from feedback):===
+===New ideas (from feedback)===
 * I1
 * I2
 * ...
 
-==For tutorials:==
-===Number of participants:===  
-===Hands-on exercises (If any):===
+==Tutorials==
+===Number of participants: <i>N</i>===  
+===Hands-on exercises (If any)===
 * Exercise 1 --> completed/not-completed
 * Exercise 2 --> completed/not-completed
 * ...
