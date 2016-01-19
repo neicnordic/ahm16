@@ -7,7 +7,7 @@ title: Design Issues for e-Infrastructure Services
 {% assign id = include.id|default:path_components[-2] %}
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
-
+Room: {{ session.room|default:'TBA' }} <br/>
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
 This plenary session consists of a keynote by [[{{ site.baseurl }}/people/hanseth|{{ site.data.people['hanseth'].name }}]] on ''Design Issues for Knowledge Infrastructures''.

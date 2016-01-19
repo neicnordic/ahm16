@@ -7,7 +7,7 @@ title: Opening Session
 {% assign id = include.id|default:path_components[-2] %}
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
-
+Room: {{ session.room|default:'TBA' }} <br/>
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
 The opening session will, guess what, open the all hands meeting. Gudmund will say a few warm welcome words (the more the lower the outdoors temperature). Next we will introduce ourselves.

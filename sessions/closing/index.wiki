@@ -7,7 +7,7 @@ title: Closing Session
 {% assign id = include.id|default:path_components[-2] %}
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
-
+Room: {{ session.room|default:'TBA' }} <br/>
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
 In the Closing Session the wrap-up of the previous sessions will be presented.

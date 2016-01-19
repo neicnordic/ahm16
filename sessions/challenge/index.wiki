@@ -6,7 +6,7 @@ layout: no-menu
 {% assign id = include.id|default:path_components[-2] %}
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
-
+Room: {{ session.room|default:'TBA' }} <br/>
 Chairs: [[{{ site.baseurl }}/people/urkedal|{{ site.data.people['urkedal'].name }}]] & [[{{ site.baseurl }}/people/roblitz|{{ site.data.people['roblitz'].name }}]]
 
 == Introduction ==
