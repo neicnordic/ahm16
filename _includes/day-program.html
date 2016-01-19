@@ -32,6 +32,7 @@
             {% else %}
                 <td width="{{ 100|divided_by:parallel_sessions }}%">
             {% endif %}
+            <div class="room">Room: {{ session.room|default:'TBA' }}</div>
             <a href="{{ site.baseurl }}/sessions/{{ session_id }}" class="title">{{ session.title }}</a><br/>
             {% for chair_id in session.chair %}
                 {% assign chair = site.data.people[chair_id] %}

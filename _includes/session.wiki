@@ -5,6 +5,7 @@
 
 {% assign session = site.data.sessions[id] %}
 = {{ session.title }} =
+Room: {{ session.room|default:'TBA' }} <br/>
 Chair: [[{{ site.baseurl }}/people/{{ session.chair }}|{{ site.data.people[session.chair].name }}]]
 
 {% capture slides -%}
