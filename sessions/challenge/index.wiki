@@ -212,7 +212,7 @@ If you want to try to program an Arduino before we meet in Skeikampen, send an e
 
 Here are a few things to try:
 
-'''Task 0.1.''' When you log in, cd to <tt>~/sample</tt> and try to compile, upload, and monitor.  Make a few modifications to convince yourself how it works.
+'''Task 0.1.''' When you log in, cd to <tt>~/sample</tt> and try to compile, upload, and monitor.  Use CTRL-a k to get out of the monitor (it's screen).  Make a few modifications to convince yourself how it works.
 
 '''Task 0.2.''' The photoresistors picks up light from both the ambient environment and the LEDs.  You control one but not the other.  How can you precisly measure how much light intensity hitting a photoresister from just one of the LEDs?  Try it!
 
