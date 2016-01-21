@@ -23,4 +23,4 @@ title: Practicalities
 == Information channels ==
 This conference website is the main channel of information about this meeting.
 
-Before, during and after the meeting you may chat with all NeIC staff in the Slack channel <code>#ahm16</code>at <code>neic.slack.com</code>.
+Before, during and after the meeting you may chat with all NeIC staff in the Slack channel <code>#ahm16</code> at <code>neic.slack.com</code>.
