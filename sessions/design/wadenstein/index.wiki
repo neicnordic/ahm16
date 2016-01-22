@@ -1,0 +1,9 @@
+---
+layout: no-menu
+title: Tier-1 Design in 5min
+---
+{% include title_chair.wiki %}
+
+Overview of the task, expectations, reality and how we decided to run the NDGF Tier-1 site.
+
+{% include slides.wiki %}
