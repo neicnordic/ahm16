@@ -42,9 +42,9 @@ equal size.
 |-
 | '''Competition''' || 18:00 - 18:25
 |-
-| ''Robot presentations (1 min)''' || 18:00 - 18:05
+| ''Robot presentations (1 min)'' || 18:00 - 18:05
 |-
-| ''All teams prepare for the competition''' || 18:05 - 18:10
+| ''All teams prepare for the competition'' || 18:05 - 18:10
 |-
 | ''Competition: Team red vs yellow'' || 18:10 - 18:12
 |-
