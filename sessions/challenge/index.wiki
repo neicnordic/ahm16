@@ -67,10 +67,10 @@ We have distributed the participants over four teams. You may get in contact wit
 <div id="smallbottommargin">
 <table>
 <tr>
-<th style="background: #F03020; padding-left:8px; padding-right:8px;">Team Red</th>
-<th style="background: #F8C040; padding-left:8px; padding-right:8px;">Team Yellow</th>
-<th style="background: #4080F0; padding-left:8px; padding-right:8px;">Team Blue</th>
-<th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green</th>
+<th style="background: #F03020; padding-left:8px; padding-right:8px;">Team Red<br/>Olav1</th>
+<th style="background: #F8C040; padding-left:8px; padding-right:8px;">Team Yellow<br/>Olav2</th>
+<th style="background: #4080F0; padding-left:8px; padding-right:8px;">Team Blue<br/>Skeikampen</th>
+<th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green<br/>Prestkampen</th>
 </tr>
 <tr>
 <td style="background: #F03020; padding-left:8px; padding-right:8px;">(Ingemar)</td>
