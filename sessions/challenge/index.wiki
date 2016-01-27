@@ -218,9 +218,9 @@ Here are a few things to try:
 
 '''Task 0.3.''' Determine the intensity on the first two photoresistors from of each of the first four LEDs.  Can you say something about the arragement?
 
-== Challenge Sneak Preview ==
+== The Challenge During the AHM ==
 
-We thought it would be good if you already get information about the actual challenge before the meeting. See [http://ahm16.neic.nordforsk.org/media/ahm16_challenge.pdf here]. Note, some information may be kept secret until the challenge sessions start.
+Information about the challenge is provided as [http://ahm16.neic.nordforsk.org/media/ahm16_challenge.pdf PDF document].
 
 == External Documentation ==
 
