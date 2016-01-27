@@ -61,7 +61,7 @@ We have distributed the participants over four teams. You may get in contact wit
 <th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green</th>
 </tr>
 <tr>
-<td style="background: #F03020; padding-left:8px; padding-right:8px;">Ingemar</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">(Ingemar)</td>
 <td style="background: #F8C040; padding-left:8px; padding-right:8px;">Christian</td>
 <td style="background: #4080F0; padding-left:8px; padding-right:8px;">Daniel</td>
 <td style="background: #18A008; padding-left:8px; padding-right:8px;">Diba</td>
@@ -75,8 +75,8 @@ We have distributed the participants over four teams. You may get in contact wit
 <tr>
 <td style="background: #F03020; padding-left:8px; padding-right:8px;">Erland</td>
 <td style="background: #F8C040; padding-left:8px; padding-right:8px;">Ali</td>
-<td style="background: #4080F0; padding-left:8px; padding-right:8px;">Abdulrahman</td>
-<td style="background: #18A008; padding-left:8px; padding-right:8px;">Antti</td>
+<td style="background: #4080F0; padding-left:8px; padding-right:8px;">(Abdulrahman)</td>
+<td style="background: #18A008; padding-left:8px; padding-right:8px;">(Antti)</td>
 </tr>
 <tr>
 <td style="background: #F03020; padding-left:8px; padding-right:8px;">Dan</td>
@@ -92,7 +92,7 @@ We have distributed the participants over four teams. You may get in contact wit
 </tr>
 <tr>
 <td style="background: #F03020; padding-left:8px; padding-right:8px;">Mattias</td>
-<td style="background: #F8C040; padding-left:8px; padding-right:8px;">Michaela</td>
+<td style="background: #F8C040; padding-left:8px; padding-right:8px;">(Michaela)</td>
 <td style="background: #4080F0; padding-left:8px; padding-right:8px;">Oxana</td>
 <td style="background: #18A008; padding-left:8px; padding-right:8px;">Ulf</td>
 </tr>
@@ -103,7 +103,7 @@ We have distributed the participants over four teams. You may get in contact wit
 <td style="background: #18A008; padding-left:8px; padding-right:8px;">Pontus</td>
 </tr>
 <tr>
-<td style="background: #F03020; padding-left:8px; padding-right:8px;">Niclas</td>
+<td style="background: #F03020; padding-left:8px; padding-right:8px;">(Niclas)</td>
 <td style="background: #F8C040; padding-left:8px; padding-right:8px;">Jens</td>
 <td style="background: #4080F0; padding-left:8px; padding-right:8px;">Jonas</td>
 <td style="background: #18A008; padding-left:8px; padding-right:8px;">Jaako</td>
