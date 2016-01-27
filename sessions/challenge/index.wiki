@@ -38,7 +38,7 @@ equal size.
 |-
 | '''Construction phase''' || 15:05 - 17:55
 |-
-| '''Gather for the competition in room Olav1 (bring your robot and your track''' || 17:55 - 18:00
+| '''Gather for the competition in room Olav1''' || 17:55 - 18:00
 |-
 | '''Competition''' || 18:00 - 18:25
 |-
