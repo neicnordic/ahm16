@@ -34,15 +34,27 @@ equal size.
 <div id="smallbottommargin">
 {|class="wikitable"
 |- style="text-align: left;"
-| '''Introduction''' || 15:00 - 15:05
+| '''Brief introduction by session chairs''' || 15:00 - 15:05
 |-
 | '''Construction phase''' || 15:05 - 17:55
 |-
-| '''Gather for the competition''' || 17:55 - 18:00
+| '''Gather for the competition in room Olav1''' || 17:55 - 18:00
 |-
 | '''Competition''' || 18:00 - 18:25
 |-
-| '''And the winner is''' || 18:25 - 18:30
+| ''Robot presentations (1 min)'' || 18:00 - 18:05
+|-
+| ''All teams prepare for the competition'' || 18:05 - 18:10
+|-
+| ''Competition: Team red vs yellow'' || 18:10 - 18:12
+|-
+| ''Competition: Team blue vs green'' || 18:15 - 18:17
+|-
+| ''Competition: Team red vs blue'' || 18:20 - 18:22
+|-
+| ''Competition: Team yellow vs green'' || 18:25 - 18:27
+|-
+| '''And the winner is''' || 18:30
 |}
 </div>
 
@@ -55,10 +67,10 @@ We have distributed the participants over four teams. You may get in contact wit
 <div id="smallbottommargin">
 <table>
 <tr>
-<th style="background: #F03020; padding-left:8px; padding-right:8px;">Team Red</th>
-<th style="background: #F8C040; padding-left:8px; padding-right:8px;">Team Yellow</th>
-<th style="background: #4080F0; padding-left:8px; padding-right:8px;">Team Blue</th>
-<th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green</th>
+<th style="background: #F03020; padding-left:8px; padding-right:8px;">Team Red<br/>Olav1</th>
+<th style="background: #F8C040; padding-left:8px; padding-right:8px;">Team Yellow<br/>Olav2</th>
+<th style="background: #4080F0; padding-left:8px; padding-right:8px;">Team Blue<br/>Skeikampen</th>
+<th style="background: #18A008; padding-left:8px; padding-right:8px;">Team Green<br/>Prestkampen</th>
 </tr>
 <tr>
 <td style="background: #F03020; padding-left:8px; padding-right:8px;">(Ingemar)</td>
@@ -111,6 +123,9 @@ We have distributed the participants over four teams. You may get in contact wit
 </table>
 </div>
 
+== The Challenge During the AHM ==
+
+Information about the challenge is provided as [http://ahm16.neic.nordforsk.org/media/ahm16_challenge.pdf PDF document].
 
 == Preparation ==
 
@@ -217,10 +232,6 @@ Here are a few things to try:
 '''Task 0.2.''' The photoresistors picks up light from both the ambient environment and the LEDs.  You control one but not the other.  How can you precisly measure how much light intensity hitting a photoresister from just one of the LEDs?  Try it!
 
 '''Task 0.3.''' Determine the intensity on the first two photoresistors from of each of the first four LEDs.  Can you say something about the arragement?
-
-== Challenge Sneak Preview ==
-
-We thought it would be good if you already get information about the actual challenge before the meeting. See [http://ahm16.neic.nordforsk.org/media/ahm16_challenge.pdf here]. Note, some information may be kept secret until the challenge sessions start.
 
 == External Documentation ==
 
