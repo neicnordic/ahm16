@@ -7,3 +7,6 @@ title: Tier-1 Design in 5min
 Overview of the task, expectations, reality and how we decided to run the NDGF Tier-1 site.
 
 {% include slides.wiki %}
+
+[[{{ site.baseurl }}/media/20160126-NeIC-NT1-5min.pdf|NT1 in 5 minutes]]
+

@@ -1,0 +1,9 @@
+---
+layout: no-menu
+title: Tryggve Design in 5min
+---
+{% include title_chair.wiki %}
+
+[[{{ site.baseurl }}/media/<missing>|Tryggve]]
+
+{% include slides.wiki %}
