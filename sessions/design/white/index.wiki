@@ -10,4 +10,6 @@ The E3DS project aims to make it possible to expand and enhance the usage of exi
 
 The design of the EISCAT_3D e-infrastructure must take into account the principles of cost-effectiveness, capacity to perform the tasks, ease of use and future expansion.
 
+[[{{ site.baseurl }}/ahm16/media/JohnWhiteE3DS_Design.pdf|E3DS slides]]
+
 {% include slides.wiki %}
