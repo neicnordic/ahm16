@@ -4,6 +4,6 @@ title: Tryggve Design in 5min
 ---
 {% include title_chair.wiki %}
 
-[[{{ site.baseurl }}/media/<missing>|Tryggve]]
+[[{{ site.baseurl }}/media/Tryggve_design_in_5_minutes.pdf|Tryggve design in 5 minutes]]
 
 {% include slides.wiki %}
