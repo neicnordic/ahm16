@@ -1,0 +1,11 @@
+---
+layout: no-menu
+title: Glenna Design in 5min
+---
+{% include title_chair.wiki %}
+
+Overview of the task, expectations, reality and how we decided to run the NDGF Tier-1 site.
+
+[[{{ site.baseurl }}/media/AHM16_5_Min_Presentaton.pptx|The Glenna Project]]
+
+{% include slides.wiki %}
