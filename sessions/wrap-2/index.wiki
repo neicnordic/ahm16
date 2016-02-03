@@ -4,10 +4,10 @@ title: Wrap-up Day 2
 ---
 
 {% include session.wiki %}
+Slides: [[{{ site.baseurl }}/media/wrap-up-d2.pdf|Day 2 Wrap-up Slides]]
 
 In the session ''Wrap-up'', the session chairs, project managers and tutorial presenters will summarise their discussions from day 2 and any ideas which have been gathered.
 
-[[{{ site.baseurl }}/media/wrap-up-d2.pdf|Day 2 Wrap-up Slides]]
 
 Every summary should follow the following templates:
 
