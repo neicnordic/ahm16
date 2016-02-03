@@ -54,8 +54,7 @@ opening:
             speaker: host
             title: Welcome and Introduction
             abstract: yes
-            slides:
-                - /media/160125-NeIC-AHM-Intro-GHøst.pptx
+            slides: /media/160125-NeIC-AHM-Intro-GHøst.pptx
         -
             speaker: vitlacil
             title: Gong Show
@@ -211,8 +210,7 @@ glenna-3:
           speaker: huluka
           title: The Cloud Control Matrix for Secure Cloud
           abstract:
-          slides:
-              - /media/TheCloudControlMatrixForSecureCloud.pdf
+          slides: /media/TheCloudControlMatrixForSecureCloud.pdf
 
 nt1-3:
     title: NT1 Team Session Day 3
@@ -333,14 +331,12 @@ closing:
             speaker: host
             title: Overall summary of All-Hands meeting 10'
             abstract:
-            slides:
-                - /media/160128-Gudmunds-AHM16-summary.pptx
+            slides: /media/160128-Gudmunds-AHM16-summary.pptx
         -
             speaker: white
             title: Evaluation of All-Hands meeting 15'
             abstract:
-            slides:
-                - https://nettskjema.uio.no/answer/68933.html
+            slides: https://nettskjema.uio.no/answer/68933.html
         -
             speaker: host
             title: Next All-Hands meeting 5'
