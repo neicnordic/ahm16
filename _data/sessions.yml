@@ -119,22 +119,22 @@ design:
             speaker: wadenstein
             title: Tier-1 Design in 5min
             abstract:
-            slides:
+            slides: /media/20160126-NeIC-NT1-5min.pdf
         -
             speaker: still
             title: Glenna Design in 5min
             abstract:
-            slides:
+            slides: /media/AHM16_5_Min_Presentaton.pptx
         -
             speaker: pursula
             title: Tryggve Design in 5min
             abstract:
-            slides:
+            slides: /media/Tryggve_design_in_5_minutes.pdf
         -
             speaker: white
             title: E3DS Design in 5min
             abstract:
-            slides:
+            slides: /media/JohnWhiteE3DS_Design.pdf
 
 glenna-2:
     title: Glenna Team Session Day 2
