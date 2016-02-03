@@ -55,6 +55,7 @@ opening:
             title: Welcome and Introduction
             abstract: yes
             slides:
+                - /media/160125-NeIC-AHM-Intro-GHøst.pptx
         -
             speaker: vitlacil
             title: Gong Show
@@ -333,6 +334,7 @@ closing:
             title: Overall summary of All-Hands meeting 10'
             abstract:
             slides:
+                - /media/160128-Gudmunds-AHM16-summary.pptx
         -
             speaker: white
             title: Evaluation of All-Hands meeting 15'
