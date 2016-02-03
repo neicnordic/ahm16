@@ -206,6 +206,12 @@ glenna-3:
           title: Glenna discussion session 
           abstract: yes
           slides:
+      -
+          speaker: huluka
+          title: The Cloud Control Matrix for Secure Cloud
+          abstract:
+          slides:
+              - /media/TheCloudControlMatrixForSecureCloud.pdf
 
 nt1-3:
     title: NT1 Team Session Day 3
