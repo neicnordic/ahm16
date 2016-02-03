@@ -5,5 +5,3 @@ title: Glenna Design in 5min
 {% include title_chair.wiki %}
 
 [[{{ site.baseurl }}/media/AHM16_5_Min_Presentaton.pptx|The Glenna Project]]
-
-{% include slides.wiki %}
