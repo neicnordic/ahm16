@@ -16,4 +16,6 @@ The complexity of these solutions goes beyond their technological components –
 
 Researchers within Software Engineering and Information Systems are arguing the complexity of exiting and emerging ICT solutions like those mentioned above make them radically different from traditional software and information systems – so much so that novel approaches for how to develop and sustain these solutions are required. Much research addressing this issue conceptualizes complex ICT solutions as (information, digital, cyber-, or e-) infrastructures. The presentation will identify the key differences between infrastructures and traditional systems, the challenges these differences create, and strategies for how to develop and sustain them that has been proved successful.
 
+[[{{ site.baseurl }}/media/Design_issues_in_e-infrastr.pdf|Design issues in e-Infrastructures]]
+
 {% include slides.wiki %}
